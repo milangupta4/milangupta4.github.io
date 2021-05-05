@@ -9,11 +9,10 @@ Winning the Best Athlete Award at the IIML Farewell. I would like to thank my fa
 April 2021
 
 ![image](/assets/images/mummy.jpg)
-Naini Lake,
-sometime in the early years of the millenium
+Looks like Darjeeling, May-June 1998
 
 ![image](/assets/images/papa.jpg)
-Looks like Darjeeling, May-June 1998
+Darjeeling :)
 
 ![image](/assets/images/iiml-connoisseurs.jpg)
 Made friends with these wonderful kiddos <3, March 2021
