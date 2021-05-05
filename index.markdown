@@ -4,4 +4,4 @@
 
 layout: home
 ---
-This is Milan's home on the internet
+My own cheerful little corner of the internet
