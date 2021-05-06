@@ -2,7 +2,7 @@
 layout: post
 title:  "The Smile of Kipchoge!"
 date:   2019-08-26 12:32:07 +0530
-categories: 
+categories: kipchoge
 ---
 
 What is it like to run a marathon?  
