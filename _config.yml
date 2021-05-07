@@ -25,16 +25,23 @@ description: >- # this means to ignore newlines until "baseurl:"
   and books and films that I like
 baseurl: 
 url: www.milangupta.io
+author: 
+  name: Milan Gupta
+  
 twitter_username: milangupta4
 github_username:  milangupta4
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: milangupta4/minima
+# theme: minima
+
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-remote-theme
 exclude:
   - Gemfile
   - Gemfile.lock
