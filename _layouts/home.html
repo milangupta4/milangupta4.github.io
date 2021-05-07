@@ -1,61 +1,27 @@
 ---
-layout: default
+layout: custom
 ---
-
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
-  {{ content }}
-
-
-  {% if site.paginate %}
-    {% assign posts = paginator.posts %}
-  {% else %}
-    {% assign posts = site.posts %}
-  {% endif %}
-
-
-  {%- if posts.size > 0 -%}
-    {%- if page.list_title -%}
-      <h2 class="post-list-heading">{{ page.list_title }}</h2>
-    {%- endif -%}
-    <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
-      <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    {% if site.paginate %}
-      <div class="pager">
-        <ul class="pagination">
-        {%- if paginator.previous_page %}
-          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-          <li><div class="current-page">{{ paginator.page }}</div></li>
-        {%- if paginator.next_page %}
-          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-        </ul>
-      </div>
-    {%- endif %}
-
-  {%- endif -%}
-
+<div class="home container">
+  	<div>
+	  <p>This is my happy and cheerful corner of the internet. </p>
+	</div>
+  	<div class="row">
+  		<div class="home-image-block col-lg-6">
+  			<img class="home-image" src="/assets/images/home/iiml-formals.jpg" alt="Milan is in a suit">
+  			<div class="image-caption">
+  				<p>I am deeply passionate about building products that consumers love. I will be joining Jio Platforms, India's most ambitious startup. I have previously worked on User acquisition and conversion optimization at B2B SaaS startup VdoCipher.</p>
+  			</div>
+  		</div>
+		<div class="home-image-block col-lg-6">
+  			<img class="home-image" src="/assets/images/home/running.jpg" alt="Milan is running">
+  			<div class="image-caption">
+  				<p>Running is my biggest source for personal growth. My half marathon personal best is 1:32:30, my marathon debut was at 4:00:05, and my best run of all time was the <a href="https://www.milangupta.io/blog/solang-skyrun-2018">30km Solang Skyrun</a>.
+				</p>
+  			</div>
+  		</div>
+  	</div>
+  	<div>
+  		<p>On this blog, I write about Product Management, Growth Marketing and Endurance Sports. Along with Musings and Reviews of the books that I read.</p>
+  	</div>
+  </div>
 </div>

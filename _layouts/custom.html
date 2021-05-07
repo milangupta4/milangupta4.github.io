@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+  {%- if jekyll.environment == 'production' and site.google_tag_manager -%}
+    {%- include gtm/gtm-body.html -%}
+  {%- endif -%}
+  {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="custom-page">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
