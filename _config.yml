@@ -27,9 +27,11 @@ baseurl:
 url: www.milangupta.io
 author: 
   name: Milan Gupta
+
   
-twitter_username: milangupta4
+linkedin_username: milan-gupta4
 github_username:  milangupta4
+google-tag-manager: GTM-MKL5F5S
 
 # Build settings
 markdown: kramdown
