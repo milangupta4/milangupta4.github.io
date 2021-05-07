@@ -27,7 +27,7 @@ baseurl:
 url: www.milangupta.io
 author: 
   name: Milan Gupta
-google-tag-manager: GTM-MKL5F5S
+google_tag_manager: GTM-MKL5F5S
   
 linkedin_username: milan-gupta4
 github_username:  milangupta4
