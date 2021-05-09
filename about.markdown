@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## A Really Hoopy Frood
+## A Really Hoopy Supercalifragilistic Frood
 
 Here are some photos to put my stamp on this domain until I figure out this Jekyll site hosting thing.
 
