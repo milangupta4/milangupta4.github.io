@@ -2,7 +2,7 @@
 layout: post
 title:  "Where do I see BizTech in five years?"
 date:   2019-07-29 12:32:07 +0530
-categories: Product Management
+categories: product
 ---
 
 Where do I see BizTech in five years?  

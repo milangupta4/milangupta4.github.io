@@ -1,6 +1,6 @@
 ---
-tag: Tolstoy
-subtag: Book Reviews
+tag: tolstoy
+title: Tolstoy - Book Reviews
 permalink: "/tolstoy"
 ---
 

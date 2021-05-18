@@ -2,7 +2,7 @@
 layout: post
 title:  "Holistic Marketing"
 date:   2019-08-06 08:32:07 +0530
-categories: Marketing
+categories: marketing
 ---
 
 What is holistic marketing?

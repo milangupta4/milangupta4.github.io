@@ -2,7 +2,7 @@
 layout: post
 title:  "Three Approaches to Marketing – Performance, Brand & Customer Engagement"
 date:   2020-11-13 10:32:07 +0530
-categories: Marketing
+categories: marketing
 ---
 
 Performance Marketing – Designed to achieve maximum ROI (measured in sales in short-term).  

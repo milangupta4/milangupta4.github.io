@@ -1,4 +1,5 @@
 ---
-tag: Marketing
+tag: marketing
+title: Marketing
 permalink: "/marketing"
 ---

@@ -1,4 +1,5 @@
 ---
-tag: Kipchoge
+tag: kipchoge
+title: Kipchoge - Running
 permalink: "/kipchoge"
 ---

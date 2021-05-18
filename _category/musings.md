@@ -1,4 +1,5 @@
 ---
-tag: Musings
+tag: musings
+title: Musings
 permalink: "/musings"
 ---

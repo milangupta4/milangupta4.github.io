@@ -2,7 +2,7 @@
 layout: post
 title:  "Jim Walmsley's Wrong Turn at Mile 93"
 date:   2020-11-13 10:32:07 +0530
-categories: Kipchoge
+categories: kipchoge
 ---
 
 This is such a beautifully narrated video. It follows two arcs:  
