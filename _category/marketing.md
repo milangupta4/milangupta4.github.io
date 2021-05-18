@@ -1,0 +1,4 @@
+---
+tag: Marketing
+permalink: "/marketing"
+---

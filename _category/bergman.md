@@ -1,0 +1,4 @@
+---
+tag: Bergman
+permalink: "/bergman"
+---

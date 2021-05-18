@@ -2,7 +2,7 @@
 layout: post
 title:  "An Introduction to Digital Marketing – Part 1: Search Engine Optimisation"
 date:   2019-10-17 10:32:07 +0530
-categories: marketing
+categories: Marketing
 ---
 
 *To be completed*  

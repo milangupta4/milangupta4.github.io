@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="blog list">
+    <h1>{{ page.tag }}
+      {%- if page.subtag -%}
+        <span> - {{ page.subtag}}</span>
+      {%- endif -%}
+    </h1>
+
+    {{ content }}
+    
+    <ul class="post-list">
+      {% for post in site.categories[page.tag] %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %d, %Y"  }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape | markdownify | remove: '<p>' | remove: '</p>' }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+</div>

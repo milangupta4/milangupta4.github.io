@@ -2,7 +2,7 @@
 layout: post
 title:  "The Left Hand of Darkness"
 date:   2019-08-06 10:31:07 +0530
-categories: tolstoy
+categories: Tolstoy
 ---
 
 *This is a work-in progress. Any inputs would be very much welcome.*

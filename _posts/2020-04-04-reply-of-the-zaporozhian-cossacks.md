@@ -2,7 +2,7 @@
 layout: post
 title:  "Reply of the Zaporozhian Cossacks"
 date:   2020-04-04 12:32:07 +0530
-categories: musings
+categories: Musings
 ---
 My late tweens I was such a fan of The Russians – Tolstoy and Dostoevsky more than any other. Looking back now, they are such different writers, but each of them looking for some answer to an anguished search for The Meaning of Life. Tolstoy’s art has a realist aspect to it, whereas Dostoevsky’s art is so much cerebral, wherein he examines moral questions through certain character types. That he is so popular is largely because he has been embraced by psychologists and philosophers – Nietzsche and Freud come to mind.  
 

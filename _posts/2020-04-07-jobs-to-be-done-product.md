@@ -2,7 +2,7 @@
 layout: post
 title:  "Jobs to be Done – A Framework for thinking about your product"
 date:   2020-04-07 10:32:07 +0530
-categories: bergman
+categories: Product Management
 ---
 
 Correlation/ Analytics may not provide the key insight – they only provide correlation, not causation.  
