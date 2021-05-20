@@ -1,5 +1,5 @@
 ---
 tag: marketing
 title: Marketing
-permalink: "/marketing"
+permalink: "/marketing/"
 ---

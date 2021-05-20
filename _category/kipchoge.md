@@ -1,5 +1,5 @@
 ---
 tag: kipchoge
 title: Kipchoge - Running
-permalink: "/kipchoge"
+permalink: "/kipchoge/"
 ---

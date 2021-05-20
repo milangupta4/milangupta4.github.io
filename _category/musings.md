@@ -1,5 +1,5 @@
 ---
 tag: musings
 title: Musings
-permalink: "/musings"
+permalink: "/musings/"
 ---

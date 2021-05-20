@@ -1,7 +1,7 @@
 ---
 tag: tolstoy
 title: Tolstoy - Book Reviews
-permalink: "/tolstoy"
+permalink: "/tolstoy/"
 ---
 
 I read Tolstoy's novels - War and Peace and Anna Karenina in my teens. Although I haven't revisited his novels since. 
