@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I write about Product Management, Marketing, Running, 
   and books and films that I like.
 baseurl: 
-url: www.milangupta.io
+url: https://www.milangupta.io
 author: 
   name: Milan Gupta
 google_tag_manager: GTM-MKL5F5S
