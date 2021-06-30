@@ -4,7 +4,7 @@ title: About
 permalink: /about-me/
 ---
 
-## A Really Hoopy Frood
+## A Really Hoopy Supercalifragilistic Frood
 
 I am a Product Manager at Jio Platforms. I completed my MBA from IIM Lucknow in 2021, where I spent much of my time running around the beautiful campus.
 
