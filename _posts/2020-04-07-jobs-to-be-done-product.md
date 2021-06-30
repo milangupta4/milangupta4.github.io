@@ -5,6 +5,8 @@ date:   2020-04-07 10:32:07 +0530
 categories: product
 ---
 
+The Jobs to be Done framework, popularized by Clayton "Innovator's Dilemma" Christensen, seeks to look at products by how they help customers get their jobs done.
+
 Correlation/ Analytics may not provide the key insight – they only provide correlation, not causation.  
 
 How to find out:  

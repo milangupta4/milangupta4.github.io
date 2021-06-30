@@ -9,6 +9,8 @@ This is such a beautifully narrated video. It follows two arcs:
 1. Jim’s discharge from the US Air Force. 
 2. The Wrong Turn at Mile 93.   
 
+https://youtu.be/zkdWjq34h5w
+
 I loved the honesty and openness of the first story arc. I’ll talk about that at a later point.  
 
 The second story just makes me emotional every time I see it. And I have been rewatching this video for 2 days straight now.  
