@@ -85,3 +85,18 @@
 	margin-right: 20px;
   }
 }
+
+
+.post-content h1, .post-content h2, .post-content h3 {
+	margin-top: 15px;
+}
+
+ol, ul {
+    padding-left: 0px;
+}
+
+a {
+    color: #2a7ae2;
+    text-decoration: none;
+}
+
