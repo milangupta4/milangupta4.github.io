@@ -30,8 +30,9 @@ H7 buddies. December 2019 Term II exams with these lads were memorable
 ![image](/assets/images/about/romil-sir.jpg)
 The highlight of my time at IIML. I feel so fortunate to have met such an amazing personality as Romil sir!
 
-![image](/assets/images/about/biztech3536.jpg)
-BizTech35-36. Felt so good to know these people :)
+![image](/assets/images/about/aayushi-milan.jpeg)
+The start of something extraordinary & beautiful
+
 
 ![image](/assets/images/about/winning-campus-run.jpeg)
 What a feeling as I crossed the finish line! I was trailing until the very very last. Thankfully my tactics worked, as my consistent pace gave me enough to power through at the finish. I love shouting at the end of races, as it just lets me relieve all the mental tension that's built up during the run!
