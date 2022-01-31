@@ -6,7 +6,7 @@ permalink: /about-me/
 
 ## A Really Hoopy Supercalifragilistic Frood
 
-I am a Product Manager at Jio Platforms. I completed my MBA from IIM Lucknow in 2021, where I spent much of my time running around the beautiful campus.
+I am a long-distance runner and a Product Management enthusiast. I completed my MBA from IIM Lucknow in 2021, where I spent much of my time running around the beautiful campus.
 
 ![image](/assets/images/about/iiml-farewell-best-athlete.jpg)
 Winning the Best Athlete Award at the IIML Farewell. I would like to thank my family, the campus loop, the two sightings of porcupines, the snakes who've never made themselves visible to me, the peacocks who run away as I chase them in search of a protein-rich meal, and most of all my college-mates for not throwing eggs at me as I run past them.

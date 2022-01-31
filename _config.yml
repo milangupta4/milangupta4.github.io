@@ -32,18 +32,23 @@ google_tag_manager: GTM-MKL5F5S
 linkedin_username: milan-gupta4
 github_username:  milangupta4
 
-
 # Build settings
 markdown: kramdown
 remote_theme: milangupta4/minima
 # theme: minima
 
+minima:
+  social_links:
+    github: milangupta4
+    linkedin: milan-gupta4
+    twitter: milangupta4
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-remote-theme
+
 exclude:
   - Gemfile
   - Gemfile.lock
