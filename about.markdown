@@ -36,8 +36,13 @@ The BizTech team - PGP35 & 36. What a privilege working with these brilliant fol
 ![image](/assets/images/about/aayushi-milan.jpeg)
 The start of something extraordinary & beautiful
 
+
+![image](/assets/images/about/me-with-sir-aksh.jpg)
+Me with the Tactical Devil
+
 ![image](/assets/images/about/winning-campus-run.jpeg)
 What a feeling as I crossed the finish line! I was trailing until the very very last. Thankfully my tactics worked, as my consistent pace gave me enough to power through at the finish. I love shouting at the end of races, as it just lets me relieve all the mental tension that's built up during the run!
 
 ![image](/assets/images/about/post-run-smile.jpeg)
 Happy :)
+
