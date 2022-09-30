@@ -37,7 +37,7 @@ The BizTech team - PGP35 & 36. What a privilege working with these brilliant fol
 The start of something extraordinary & beautiful
 
 
-![image](/assets/images/about/me-with-sir-aksh.jpg)
+![image](/assets/images/about/me-with-sir-aksh.jpeg)
 Me with the Tactical Devil
 
 ![image](/assets/images/about/winning-campus-run.jpeg)
