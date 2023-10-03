@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Indrahar Summit Run"
+date:   2023-08-17 12:32:07 +0530
+categories: kipchoge
+---
+
 # Summit Run Indrahar
 
 In terms of travel, I took the overnight bus with Laxmi holidays. For traveling to the mountains, Laxmi Holidays feels quality. My default choice for traveling to Himalayas from Delhi now.
