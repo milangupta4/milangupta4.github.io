@@ -1,5 +1,5 @@
 ---
 tag: product
-title: Product Management
-permalink: "/product-management/"
+title: Product Design
+permalink: "/product-design/"
 ---

@@ -1,15 +1,19 @@
 ---
 layout: post
-title:  "Rajmachi Fort Trek"
+title:  "Rajmachi Fort Trek - A very doable single-day trek near to Mumbai"
 date:   2023-11-07 12:32:07 +0530
 categories: kipchoge
 ---
 
-# Two trips in October ‘23 to Rajmachi Trek (moved to blog)
+# Rajmachi Trek - An incredibly accessible trek in Lonavala
 
-This is a nice trek with a trailhead at the core of Lonavala. I comfortably parked my car near one of the fancy resorts in Lonavala, and then started my hike, on two different Sundays in the sultry Maharashtra heat.
+Rajmachi fort is an awesome trek with a trailhead at the core of Lonavala. I had first stumbled on the trek on a Staycation at Fariyas resort, Lonavala, where the hotel did a guided tour for us to Tungarli dam. Rajmachi fort trek has two trailheads - one at Tungarli dam, and the other near to Della Adventure resort. The route starting from Tungarli dam is more beautiful, and goes through much more dense greenery, before converging with the jeep track that comes up from Della Resort.
 
-### The itinerary
+I did two solo hikes in quick succession in October '23. 
+
+I comfortably parked my car at the free parking near to Della Resort. I started my hike, on two different Sundays in the sultry Maharashtra heat.
+
+### The itinerary for Rajmachi Fort trek
 
 A two hour drive to Lonavala, trailhead starts near Della Resort. A comfortable 11km walk to Udhewadi village - very easy walk on a jeep track. About a 1-1.5 km uphill walk to the top of the fort, where you get a 360 degree view of the Sahyadris that connect the hill towns of Lonavala and Karjat.
 
