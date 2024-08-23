@@ -1,5 +1,5 @@
 ---
 tag: kipchoge
-title: Kipchoge - Running
+title: Running & Fitness
 permalink: "/running/"
 ---

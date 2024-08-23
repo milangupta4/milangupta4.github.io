@@ -5,10 +5,6 @@ date:   2024-08-12 12:32:07 +0530
 categories: product
 ---
 
-## Sample Ratio Mismatch
-
-Let’s suppose a test is running, and you have decided a 50-50 split across Control and Sample. 
-
 ### **The Experiment: New Home page design for Trekking website**
 
 You are building a Trekking website. Your goal is that customers come to your platform, they browse through the many treks, they express interest in staying up-to-date with all your treks. There is a CTA to receive emails from your company. 
