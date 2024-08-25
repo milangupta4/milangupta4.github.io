@@ -41,7 +41,6 @@ minima:
   social_links:
     github: milangupta4
     linkedin: milan-gupta4
-    twitter: milangupta4
 
 plugins:
   - jekyll-feed

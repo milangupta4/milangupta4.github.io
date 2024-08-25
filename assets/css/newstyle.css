@@ -105,3 +105,22 @@ a {
   padding: 0;
 }
 
+
+.footer-wrapper {
+	padding: 0% 8%;
+}
+
+.footer-category {
+	padding-right: 0.5em;
+}
+
+.footer-category ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+  }
+  
+  .footer-category ul li {
+	padding: 0.5em 0;
+	margin: 0;
+  }
