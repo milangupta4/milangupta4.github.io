@@ -57,8 +57,27 @@
 	color: grey;
 }
 
+@media screen and (min-width: 800px) {
+	.hero-section {
+		width: 70%;
+		margin: auto;
+		margin-bottom: 4vw;
+	}
+	.hero-section h1 {
+		text-align: center;
+	}
+}
+
+
 .home-image {
 	max-width: 90%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.home-hero-image {
+	/* max-width: 70%; */
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
