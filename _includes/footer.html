@@ -9,7 +9,7 @@
           <ul>
             {% assign marketing_posts = site.categories.marketing | slice: 0, 4 %}
             {% for post in marketing_posts %}
-              <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+              <li><a href="{{ post.url | absolute_url}}">{{ post.title }}</a></li>
             {% endfor %}
           </ul>
         </div>
@@ -19,9 +19,9 @@
         <div class="footer-category">
           <p>Product Management Posts</p>
           <ul>
-            {% assign marketing_posts = site.categories.product | slice: 0, 4 %}
-            {% for post in marketing_posts %}
-              <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% assign product_posts = site.categories.product | slice: 0, 4 %}
+            {% for post in product_posts %}
+              <li><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></li>
             {% endfor %}
           </ul>
         </div>
@@ -30,8 +30,8 @@
         <div class="footer-category">
           <p>Other Links</p>
           <ul>
-            <li><a href="{{ "/about-me/" | relative_url }}">About Me</a></li>
-            <li><a href="{{ "/blog/" | relative_url }}">All Posts</a></li>
+            <li><a href="{{ "/about-me/" | absolute_url }}">About Me</a></li>
+            <li><a href="{{ "/blog/" | absolute_url }}">All Posts</a></li>
           </ul>
         </div>
       </div>
