@@ -8,5 +8,9 @@
     {%- include gtm/gtm-head.html -%}
   {%- endif -%}
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  {%- if page.meta_image -%}
+    <meta property="og:image" content="{{page.meta_image}}" />
+    <meta property="twitter:image" content="{{page.meta_image}}" />
+  {%- endif -%}
   {%- include custom-head.html -%}
 </head>

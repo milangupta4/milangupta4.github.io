@@ -38,10 +38,12 @@ After crossing Shikwas was actually the more difficult part - here it was a race
 
 ### Day 6 - Lidderwat to Aru valley
 
-Early walk back - the mountains were looking gorgeous with their new snow cover, and I thought that the overall place had a vibe of freshness that inevitably comes with rains.
+Early walk back - the mountains were looking gorgeous with their new snow cover, and I thought that the overall place had a vibe of freshness that always comes after heavy rains.
 
 ## Some observations on Kashmir
 
 **Lakes in Kashmir** - the flattish nature of the mountains - the altitude gain is much more gradual as you move along rivers, and the larger number of streams, means that lakes form.
 
-**Trekking is more approachable** - If you're coming from anywhere other than North India. This is because Srinagar is super approachable with a direct flight from most metros. 
+**Kashmir treks are super-approachable** - If you're coming from anywhere other than North India. This is because Srinagar is super approachable with a direct flight from most metros. 
+
+**Kashmir continues to be tourist-friendly** - There most certainly is a strong armed forces presence. However, the people are extremely warm and friendly. 

@@ -14,12 +14,12 @@ layout: default
         <span class="post-meta">{{ post.date | date: "%b %d, %Y"  }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | absolute_url }}">
-            {{ post.title | escape | markdownify | remove: '<p>' | remove: '</p>' }}
+            {{ post.custom_title | default: post.title | escape | markdownify | remove: '<p>' | remove: '</p>' }}
           </a>
         </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
+        {% if post.custom_excerpt%}
+          <p>{{ post.custom_excerpt }}</p>
+        {% endif %}
       </li>
       {%- endfor -%}
     </ul>

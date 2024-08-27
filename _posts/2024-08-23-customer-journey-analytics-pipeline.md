@@ -1,28 +1,34 @@
 ---
 layout: post
-title:  "Building a Customer Journey Analytics Pipeline for D2C - Sample Case Study
-"
+title:  "Customer Journey Analytics - Building a Pipeline for D2C"
 date:   2024-08-23 12:32:07 +0530
 categories: product
+featured: true
+post_id: 21
+custom_title: "Customer Journey Analytics - Building a pipeline"
+custom_excerpt: "A Customer journey analytics pipeline can enable you to perform powerful analysis on your own"
+meta_image: "/assets/images/customer-journey-analytics/types-of-customer-journey-data.png"
 ---
 
 In this blogpost, we will take a high-level view at creating a first-party Customer Journey Analytics pipeline.
 
-The single biggest advantage to building a first-party Analytics pipeline is that you own end-to-end data. And with a strong architect and strong understanding of data requirements, you can build out your own analytics pipeline exactly how you need it.
+The single biggest advantage to building a first-party Analytics pipeline is that **you own end-to-end customer data**. 
+
+You can build out your own analytics pipeline exactly how you need it. All you would need is a flexible and opinionated architecture, and an understanding of the direction of business requirements.
 
 To help illustrate this case, let’s consider the following problem statement: 
 
-You are the Product Head for GiftAway, a D2C brand that makes it super-easy for users to send gifts to your family. 
-
-
+You are the Product Head for GiftAway, a D2C brand that makes it super-easy for users to send gifts to their family. You want to understand the user funnel - from when the user visit your website for the first-time to when they checkout.
 
 
 ### **What is the Happy Flow for GiftAway?**
 
-1. User searches for something
-2. User browses a product
+1. User searches for something - let's say - "Rakhi gift hamper"
+2. User browses a product - a Rakhi, flowers & chocolate hamper
 3. User adds product to cart
 4. User checks out the cart
+
+As Product Manager, you want to see the numbers down this funnel.
 
 ![image](/assets/images/customer-journey-analytics/User-cart-checkout.png)
 
@@ -30,24 +36,25 @@ You are the Product Head for GiftAway, a D2C brand that makes it super-easy for 
 
 1. User profile data - 
     1. When did the user signup for the first time, 
-    2. what is the user’s age,
-    3.  is the user signed up to the loyalty program, 
-    4. has the user completed a purchase, 
-    5. how many carts has the user checked out, 
-    6. what are the loyalty points that the user has got
+    2. What is the user’s age,
+    3. Is the user signed up to the loyalty program, 
+    4. Has the user completed a purchase, 
+    5. How many carts has the user checked out, 
+    6. What are the loyalty points that the user has got
 
 ![image](/assets/images/customer-journey-analytics/types-of-customer-journey-data.png)
 
-2. User events data - here we track every scroll or click that a user does, and specially focus on actionable insights. For the purpose of our D2C app, we are focused specifically on the journey from Search to Browsing to Cart addition to Cart checkout
+2. User events data - here we track every scroll or click that a user does, and specially focus on actionable insights. For the purpose of our D2C app, we are focused specifically on the journey from Search to Browsing to Cart addition to Cart checkout. User event data is what we will use to create our acquisition-to-conversion funnel.
 3. User transactions & Product inventory data
-    1. This is data that is actually logged to the system, that has an impact outside of just the user experience - for example carts_checkout contains data of customers who have checked-out products online
-
+    1. This is data that is stored in databases. These data have business value in their own right - for example carts_checkout contains data of customers who have checked-out products online. Being able to tie transaction data with funnel data will make our analysis richer, by tying our engagement metrics to revenue.
 
 ![image](/assets/images/customer-journey-analytics/giftaway_db.png)
 
 ### You own all your data with Customer Journey Analytics Pipeline
 
-In a first-party analytics pipeline, all of the above - User profiles, User events and User transactions are owned and directly managed by the business. The business has access to the raw data, meaning that there is unlimited analysis that you can run on the data.
+In a first-party analytics pipeline, all of the above - User profiles, User events and User transactions are owned and directly managed by the business. 
+
+Because the business has access to all raw data, there is a scope for unlimited analysis on the data.
 
 If you are a super-big company having needs, it makes sense to build your own analytics pipeline. Additionally, if you are concerned about a third-party owning your data for privacy/ security reasons, again first-party Analytics pipeline comes into the picture.
 
@@ -62,7 +69,7 @@ Also, driving insights from a first-party pipeline is not intuitive, and may oft
 1. Writing instrumentation logic in a manner that ensures you’re collecting the right data
 2. Coding in the instrumentation logic, so that the actual events get fired
 3. Building an API server 
-4. Build the Analytics pipeline on the Cloud - from collection to loading and transformation to Viewing
+4. Build the Analytics pipeline on the Cloud - from collection to loading and transformation to Viewing (ETL)
 5. Doing the right analysis
 
 ![image](/assets/images/customer-journey-analytics/first-party-date-devops-pipeline.png)

@@ -1,5 +1,5 @@
 <footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  <data class="u-url" href="{{ "/" | absolute_url }}"></data>
   <div class="footer-wrapper">
     <h2 class="footer-heading">{{ site.title }}</h2>
     <div class="footer-col-wrapper">
@@ -9,7 +9,7 @@
           <ul>
             {% assign marketing_posts = site.categories.marketing | slice: 0, 4 %}
             {% for post in marketing_posts %}
-              <li><a href="{{ post.url | absolute_url}}">{{ post.title }}</a></li>
+              <li><a href="{{ post.url | absolute_url }}">{{ post.custom_title | default: post.title }}</a></li>
             {% endfor %}
           </ul>
         </div>
@@ -21,11 +21,21 @@
           <ul>
             {% assign product_posts = site.categories.product | slice: 0, 4 %}
             {% for post in product_posts %}
-              <li><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></li>
+              <li><a href="{{ post.url | absolute_url }}">{{ post.custom_title | default: post.title }}</a></li>
             {% endfor %}
           </ul>
         </div>
       </div>
+      <!-- <div class="footer-col">
+        <div class="footer-category">
+          <p>All Categories</p>
+          <ul>
+            {% for category in site.categories %}
+              <li><a href="{{ category.permalink | absolute_url }}">{{ category[0] }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div> -->
       <div class="footer-col">
         <div class="footer-category">
           <p>Other Links</p>
