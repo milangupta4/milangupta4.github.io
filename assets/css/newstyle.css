@@ -81,6 +81,7 @@
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	margin-bottom: 10px;
 }
 
 @media (min-width: 992px) {
@@ -158,3 +159,24 @@ a {
 	width: 60%;
 	height: 4em;
   }
+
+  .workplaces-strip {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+    background-color: #f8f9fa; /* Optional: Add a background color */
+}
+
+.workplaces-strip img {
+    height: 100px; /* Set a fixed height for all images */
+    object-fit: cover; /* Ensure images cover the height without distortion */
+    margin: 0 10px; /* Optional: Add some spacing between images */
+}
+
+.home-image-block img {
+	width: 40%;
+	display: block;
+	margin: 0 auto;
+	
+}
