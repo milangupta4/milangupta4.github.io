@@ -44,8 +44,7 @@
 	padding-bottom: 0;
 }
 
-.site-title {
-}
+
 
 .image-caption{
 	display: block;
@@ -67,6 +66,17 @@
 		text-align: center;
 	}
 }
+
+@media screen and (max-width: 799px) {
+	.contact.hero-section {
+		width: 90%;
+		margin: auto;
+	}
+	.hero-section h1 {
+		text-align: center;
+	}
+}
+
 
 
 .home-image {
@@ -165,7 +175,40 @@ a {
     justify-content: space-around;
     align-items: center;
     padding: 20px 0;
-    background-color: #f8f9fa; /* Optional: Add a background color */
+    background-color: #f8f9fa; 
+}
+
+@media screen and (min-width: 800px) {
+	.workplaces-strip {
+		width: 100%;
+		flex-direction: row;
+	}
+	.home-image-block img {
+		width: 40%;
+	}
+
+	.home-image-profile img {
+		width: 20%;
+	}
+
+}
+
+@media screen and (max-width: 799px) {
+	.workplaces-strip {
+		flex-direction: column;
+	}
+
+	.workplaces-strip img{
+		padding-bottom: 20px;
+	}
+
+	.home-image-block img {
+		width: 80%;
+	}
+
+	.home-image-profile img {
+		width: 50%;
+	}
 }
 
 .workplaces-strip img {
@@ -174,9 +217,51 @@ a {
     margin: 0 10px; /* Optional: Add some spacing between images */
 }
 
-.home-image-block img {
-	width: 40%;
+.home-image-block img, .home-image-profile img {
 	display: block;
 	margin: 0 auto;
 	
 }
+
+/* Add some basic styling for the toast message */
+#toast {
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 2px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    bottom: 30px;
+    font-size: 17px;
+  }
+
+  #toast.show {
+    visibility: visible;
+    -webkit-animation: fadein 0s, fadeout 0.5s 2.5s;
+    animation: fadein 0s, fadeout 0.5s 2.5s;
+  }
+
+  @-webkit-keyframes fadein {
+    from {bottom: 0; opacity: 0;}
+    to {bottom: 30px; opacity: 1;}
+  }
+
+  @keyframes fadein {
+    from {bottom: 0; opacity: 0;}
+    to {bottom: 30px; opacity: 1;}
+  }
+
+  @-webkit-keyframes fadeout {
+    from {bottom: 30px; opacity: 1;}
+    to {bottom: 0; opacity: 0;}
+  }
+
+  @keyframes fadeout {
+    from {bottom: 30px; opacity: 1;}
+    to {bottom: 0; opacity: 0;}
+  }

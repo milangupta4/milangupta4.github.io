@@ -1,10 +1,54 @@
 ---
 layout: custom
 ---
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const form = document.getElementById('contact-form');
+    const submitButton = form.querySelector('button[type="submit"]');
+    const toast = document.getElementById('toast');
 
-<div class="hero-section">
+    form.addEventListener('submit', function(event) {
+      event.preventDefault();
+  
+      const formData = {
+        name: document.getElementById('name').value,
+        email: document.getElementById('email').value,
+        message: document.getElementById('message').value
+      };
+  
+      fetch('https://api.milangupta.io/api/contactform', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(formData)
+      })
+      .then(response => response.json())
+      .then(data => {
+        console.log('Success:', data);
+        toast.className = 'show';
+        setTimeout(() => {
+            toast.className = toast.className.replace('show', '');
+          }, 3000);
+        // Handle success (e.g., show a success message to the user)
+      })
+      .catch((error) => {
+        console.error('Error:', error);
+        // Handle error (e.g., show an error message to the user)
+      });
+      // Disable the submit button for 5 seconds
+      submitButton.disabled = true;
+        setTimeout(() => {
+          submitButton.disabled = false;
+        }, 5000);
+    });
+  });
+  </script>
+
+<div class="contact hero-section">
   <h1>Contact</h1>
-  <form id="contact-form" action="http://localhost:8787/" method="POST">
+  <p>I'll try to get back at the earliest.</p>
+  <form id="contact-form" action="" method="POST">
     <div class="mg-form-field">
       <label for="name">Name:</label>
       <input class="short" type="text" id="name" name="name" required>
@@ -19,4 +63,9 @@ layout: custom
     </div>
     <button type="submit">Submit</button>
   </form>
+  <div style="margin-top: 2vw;">
+    <p>Also, you can connect with me on <a href="https://www.linkedin.com/in/milan-gupta4/" target="_blank">LinkedIn</a></p>
+  </div>
 </div>
+ <!-- Toast message -->
+ <div id="toast">Message sent</div>
