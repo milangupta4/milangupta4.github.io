@@ -41,4 +41,4 @@ This eliminates server computation costs - so if you’re setting up a personal 
 
 However where you need interactivity you come up short. 
 
-You either use a Forms-as-a-service SaaS provider (such as Formspree),
+You either use a Forms-as-a-service SaaS provider (such as Formspree), or build your own.
