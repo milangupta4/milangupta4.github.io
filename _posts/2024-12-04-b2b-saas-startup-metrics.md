@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "B2B SaaS Startup Metrics - decoding & explaining ARR, ACV and all those fancy terms "
+title:  "B2B SaaS Startup Metrics - decoding ARR, ACV and everything you need to know"
 date:   2024-12-04 12:31:07 +0530
 categories: product
-byline: "We use examples of top SaaS companies to simplify key metrics related to valuation, revenue, profitability and growth"
+sub: "We use examples of top SaaS companies to simplify key metrics related to valuation, revenue, profitability and growth"
 ---
-In this post, I explain the key metrics that give a picture of the business scenario of a startup.
 
-I will be using examples from B2B businesses, taking up examples of Atlassian, Mailchimp (Intuit). I will also be looking at major SaaS companies and their metrics.
+Here we use examples from B2B SaaS companies - Atlassian, Mailchimp (Intuit), Salesforce, Hubspot, Freshworks, to demonstrate key concepts for B2B startups that are selling for enterprises & SMBs. 
+
 
 # Top-line metrics
 
