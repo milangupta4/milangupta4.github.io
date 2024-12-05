@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Startup Metrics in B2B SaaS - evaluating Freshworks, Hubspot and Salesforce topline numbers"
+title:  "B2B SaaS Startup Metrics - decoding & explaining ARR, ACV and all those fancy terms "
 date:   2024-12-04 12:31:07 +0530
 categories: product
+byline: "We use examples of top SaaS companies to simplify key metrics related to valuation, revenue, profitability and growth"
 ---
 In this post, I explain the key metrics that give a picture of the business scenario of a startup.
 
