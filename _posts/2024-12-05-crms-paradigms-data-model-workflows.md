@@ -3,7 +3,7 @@ layout: post
 title:  "The three paradigms of CRMs - Salesy, Marketing-driven, and now  Customer driven"
 date:   2024-12-05 12:31:07 +0530
 categories: marketing
-sub: "We compare the evolution of the CRM - from across Salesforce, Hubspot and new-age CRMs such as Attio"
+custom_excerpt: "We compare the evolution of the CRM - from across Salesforce, Hubspot and new-age CRMs such as Attio"
 ---
 
 Salesforce does revenues of $40 billion annually. 
