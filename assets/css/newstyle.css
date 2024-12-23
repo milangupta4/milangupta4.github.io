@@ -7,6 +7,10 @@ p {
 	line-height: 1.6em;
 }
 
+body {
+	font-family: 'Lato';
+}
+
 /** Wrapper */
 .navbar-wrapper {
 	max-width: calc(1120px - (30px));
@@ -73,6 +77,10 @@ p {
 	}
 	.hero-section h1 {
 		text-align: center;
+	}
+
+	.wrapper {
+		max-width: 800px;
 	}
 }
 
