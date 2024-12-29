@@ -4,7 +4,7 @@ title:  "Customer Journey Analytics - Building a Pipeline for D2C"
 date:   2024-08-23 12:32:07 +0530
 categories: product
 featured: true
-post_id: 21
+post_id: 23
 custom_title: "Customer Journey Analytics - Building a pipeline"
 custom_excerpt: "A Customer journey analytics pipeline can enable you to perform powerful analysis on your own"
 meta_image: "/assets/images/customer-journey-analytics/types-of-customer-journey-data.png"

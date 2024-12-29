@@ -3,6 +3,8 @@ layout: post
 title:  "Jobs to be Done – A Framework for thinking about your product"
 date:   2020-04-07 10:32:07 +0530
 categories: product
+post_id: 11
+
 ---
 
 The Jobs to be Done framework, popularized by Clayton "Innovator's Dilemma" Christensen, seeks to look at products by how they help customers get their jobs done.

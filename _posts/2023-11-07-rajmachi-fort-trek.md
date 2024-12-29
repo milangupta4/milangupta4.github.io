@@ -3,6 +3,7 @@ layout: post
 title:  "Rajmachi Fort Trek - A very doable single-day trek near to Mumbai"
 date:   2023-11-07 12:32:07 +0530
 categories: kipchoge
+post_id: 20
 ---
 
 # Rajmachi Trek - An incredibly accessible trek in Lonavala

@@ -3,6 +3,7 @@ layout: post
 title:  "An Introduction to Digital Marketing – Part 1: Search Engine Optimisation"
 date:   2019-10-17 10:32:07 +0530
 categories: marketing
+post_id: 7
 ---
 
 This article is written as a introductory article for new professionals who want to have a bird's eye view of digital marketing.  

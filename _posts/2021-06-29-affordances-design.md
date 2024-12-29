@@ -3,6 +3,7 @@ layout: post
 title:  "Affordances - Reading *The Design of Everyday Things*"
 date:   2021-06-29 10:50:07 +0530
 categories: product
+post_id: 18
 ---
 
 ## Introduction  

@@ -4,7 +4,7 @@ title: "Marketing workflows that work in SaaS"
 date: 2024-12-28 00:31:07 +0530
 categories: marketing
 custom_excerpt: "Run marketing programs at scale by leveraging Inbound, Outbound & ABM workflows effectively"
-
+post_id: 29
 ---
 
 Marketing is getting harder.

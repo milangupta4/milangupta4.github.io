@@ -3,6 +3,7 @@ layout: post
 title:  "Statistics for PMs - Sample Ratio mismatch"
 date:   2024-08-12 12:32:07 +0530
 categories: product
+post_id: 22
 ---
 
 ### **The Experiment: New Home page design for Trekking website**

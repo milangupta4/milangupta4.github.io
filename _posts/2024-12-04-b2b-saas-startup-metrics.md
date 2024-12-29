@@ -4,6 +4,7 @@ title:  "B2B SaaS Startup Metrics - decoding ARR, ACV and everything you need to
 date:   2024-12-04 12:31:07 +0530
 categories: product
 custom_excerpt: "We use examples of top SaaS companies to simplify key metrics related to valuation, revenue, profitability and growth"
+post_id: 25
 ---
 
 Here we use examples from B2B SaaS companies - Atlassian, Mailchimp (Intuit), Salesforce, Hubspot, Freshworks, to demonstrate key concepts for B2B startups that are selling for enterprises & SMBs. 

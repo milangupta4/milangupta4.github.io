@@ -3,6 +3,7 @@ layout: post
 title:  "When Music and Film Resonate – Amelie, Trainspotting, Twin Peaks and others"
 date:   2020-04-04 12:33:07 +0530
 categories: bergman
+post_id: 8
 ---
 
 The right music adds such an important layer to the stories. When it resonates, it becomes so much more than some of its parts. So what are the best examples I have seen:

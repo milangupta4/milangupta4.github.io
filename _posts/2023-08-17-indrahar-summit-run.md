@@ -3,6 +3,7 @@ layout: post
 title:  "Indrahar Summit Run"
 date:   2023-08-17 12:32:07 +0530
 categories: kipchoge
+post_id: 19
 ---
 
  The Triund trek is an immensely popular trek in the Indian Himalayas. This trek starts from Mcleodganj in the Dhauladhar foothills and climbs to the mountain ridge that overlooks the Kangra valley. 

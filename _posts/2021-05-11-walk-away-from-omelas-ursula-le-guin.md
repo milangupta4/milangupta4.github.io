@@ -3,6 +3,7 @@ layout: post
 title:  "Reading *The Ones Who Walk Away from Omelas* by Ursula Le Guin"
 date:   2021-05-11 12:11:07 +0530
 categories: tolstoy
+post_id: 17
 ---
 
 One source of the power in Ursula Le Guin’s writing is in the unreality of the world she is describing.  

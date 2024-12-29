@@ -3,6 +3,7 @@ layout: post
 title:  "Some Quotes – True Detective, Voltaire, Birdman, Terry Pratchett"
 date:   2020-06-06 10:32:07 +0530
 categories: musings
+post_id: 13
 ---
 
 > Yeah, back then, the visions, yeah most of the time I was convinced… Shit… I’d lost it. But there were other times… I thought I was mainlining the secret truth of the universe.  

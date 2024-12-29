@@ -3,6 +3,7 @@ layout: post
 title:  "Building a Static Website with GitHub Pages, Cloudflare & Supabase!"
 date:   2024-08-27 12:31:07 +0530
 categories: tech
+post_id: 24
 ---
 
 Building a personal website does not have to be more expensive than a Netflix subscription.

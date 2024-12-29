@@ -4,7 +4,7 @@ title: "ServiceNow - How an IT Helpdesk software has transformed into a $200bn+ 
 date: 2024-12-23 12:31:07 +0530
 categories: product
 custom_excerpt: "A success founded on a scalable product architecture, a visionary team that shaped how IT departments run , and a get-it-done-yesterday attitude to execution."
-
+post_id: 28
 ---
 
 ServiceNow is a digital workflow platform that has its roots (and largest usage) in IT Asset & Service Management at Enterprises.
