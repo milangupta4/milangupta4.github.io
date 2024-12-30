@@ -6,7 +6,7 @@ categories: kipchoge
 post_id: 20
 ---
 
-# Rajmachi Trek - An incredibly accessible trek in Lonavala
+### Where is it?
 
 Rajmachi fort is an awesome trek with a trailhead at the core of Lonavala. I had first stumbled on the trek on a Staycation at Fariyas resort, Lonavala, where the hotel did a guided tour for us to Tungarli dam. Rajmachi fort trek has two trailheads - one at Tungarli dam, and the other near to Della Adventure resort. The route starting from Tungarli dam is more beautiful, and goes through much more dense greenery, before converging with the jeep track that comes up from Della Resort.
 
