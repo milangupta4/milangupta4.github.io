@@ -1,22 +1,54 @@
 ---
 layout: post
-title:  "Rajmachi Fort Trek - A very doable single-day trek near to Mumbai"
+title:  "Rajmachi Fort Trek - A very doable single-day trek near Mumbai"
+subtitle: "This longish trail is a fantastic option for single-day hikes"
+custom_excerpt: "This longish trail is a fantastic option for single-day hikes near Mumbai & Pune"
 date:   2023-11-07 12:32:07 +0530
 categories: kipchoge
 post_id: 20
 ---
 
-### Where is it?
+<div class="highlight" markdown="1">
+### Where is Rajmachi trek?
 
-Rajmachi fort is an awesome trek with a trailhead at the core of Lonavala. I had first stumbled on the trek on a Staycation at Fariyas resort, Lonavala, where the hotel did a guided tour for us to Tungarli dam. Rajmachi fort trek has two trailheads - one at Tungarli dam, and the other near to Della Adventure resort. The route starting from Tungarli dam is more beautiful, and goes through much more dense greenery, before converging with the jeep track that comes up from Della Resort.
+Rajmachi fort has a trailhead near Tungarli dam, Lonavala. This is about 80kms from Mumbai, and 60kms from Pune.
 
-I did two solo hikes in quick succession in October '23. 
+You can also start the trek from Karjat. However, I would recommend starting from Lonavala.
 
-I comfortably parked my car at the free parking near to Della Resort. I started my hike, on two different Sundays in the sultry Maharashtra heat.
+### How to reach Rajmachi trek?
+
+For the Lonavala side, you can drive to [Tungarli dam](https://maps.app.goo.gl/iKpSVb9UDe7eK8dSA){:target="_blank"}. Take the path through the village as it opens onto a trail. The trail winds down to a jeep track coming from Della Resort. 
+
+For a slightly easier trek, you can start the hike from near [Della resort](https://maps.app.goo.gl/jqA13hqu8wrfhWWDA){:target="_blank"}.
+
+### How difficult is Rajmachi trek?
+Rajmachi fort trek has two stretches. 
+
+The first stretch is a walk to Uddhewadi village. This is a 10km walk on an undulating jeep track. You can skip this hike by taking a bumpy ride on a 4-wheel drive/ 2 wheeler. 
+
+The second stretch is the hike up the hill from Uddhewadi village to the top of the fort.
+
+</div>
+<figure markdown="1">
+![Sunset at Lonavala](/assets/images/rajmachi/sunset-lonavala.webp)
+<figcaption>Sunset from Rajmachi fort</figcaption>
+</figure>
+
+### How I stumbled on Rajmachi trek
+
+I had first visited this trek on a stay near to Tungarli dam in Lonavala. 
+
+Fariyas hotel did a guided tour for us to Tungarli dam. Rajmachi fort trek has two trailheads - one at Tungarli dam, and the other near to Della Adventure resort. 
+
+The route starting from Tungarli dam starts through dense greenery and gives a good view of the valley that you'll be trekking along. It then converges with the jeep track that comes up from Della Resort.
+
+This trek report is from two solo hikes that I did in quick succession in October '23. I started both hikes around afternoon. 
+
+I comfortably parked my car at the free parking near to Della Resort.
 
 ### The itinerary for Rajmachi Fort trek
 
-A two hour drive to Lonavala, trailhead starts near Della Resort. A comfortable 11km walk to Udhewadi village - very easy walk on a jeep track. About a 1-1.5 km uphill walk to the top of the fort, where you get a 360 degree view of the Sahyadris that connect the hill towns of Lonavala and Karjat.
+A two hour drive from Mumbai to Lonavala. trailhead starts near Della Resort. A comfortable 11km walk to Udhewadi village - very easy walk on a jeep track. About a 1-1.5 km uphill walk to the top of the fort, where you get a 360 degree view of the Sahyadris that connect the hill towns of Lonavala and Karjat.
 
 ### Difficulty
 
@@ -24,26 +56,32 @@ The trek is longish - there are 10kms of walking along an undulating trail.
 
 The final climb to the top of the fort is along a narrowish route, and on rock steps - you just need to be careful - else it is not tricky - the footings are solid.
 
-![image](/assets/images/rajmachi/buffalos-water-rajmachi.webp)
-A nice sight of buffaloes bathing in water
+<figure markdown="1">
+![Buffalos bathing in water near Rajmachi trailhead](/assets/images/rajmachi/buffalos-water-rajmachi.webp)
+<figcaption>A nice sight of buffalos bathing in water</figcaption>
+</figure>
 
+<figure markdown="1">
+![The very noisy Shirota forest](/assets/images/rajmachi/shirota-forest.webp)
+<figcaption>The very noisy Shirota forest</figcaption>
+</figure>
 
-![image](/assets/images/rajmachi/kaataldhar-waterfall.webp)
-A nice view of the route that I had taken - essentially you cross a pass that connects the two ridges
+<figure markdown="1">
+![A view of the top, at midway](/assets/images/rajmachi/fort-at-midday.webp)
+<figcaption>A view of the top, at midway</figcaption>
+</figure>
 
-![image](/assets/images/rajmachi/fort-at-midday.webp)
-A view of the top, at midway
+<figure markdown="1">
+![view of Kaataldhar waterfall](/assets/images/rajmachi/kaataldhar-waterfall.webp)
+<figcaption>A nice view of the route that I had taken - essentially you cross a pass that connects the two ridges</figcaption>
+</figure>
 
-
-
-![image](/assets/images/rajmachi/shirota-forest.webp)
-The very noisy Shirota forest
 
 ### Going over the day again
 
 I started for Lonavala at 1:30pm from home in Palava City, Dombivli
 
-Reached Lonavala at 3:30pm, parked my car, and started the trek
+Reached Lonavala at 3:30pm, parked my car, and started the trek.
 
 The heat was more in terms of the sunshine - which was very bright, accompanied by the humidity. 
 
@@ -63,33 +101,30 @@ I tracked back, and came on the fork for Rajmachi fort - it is a concrete paved 
 
 But with each step uphill the overall valley looked that much more gorgeous. 
 
-![image](/assets/images/rajmachi/at-base-of-rajmachi.webp)
-The beautiful temple at the base of Rajmachi fort
+<figure markdown="1">
+![The beautiful temple at the base of Rajmachi fort](/assets/images/rajmachi/at-base-of-rajmachi.webp)
+<figcaption>The beautiful temple at the base of Rajmachi fort</figcaption>
+</figure>
 
 Eventually I decided to turn around at about 6:30 - it was a mixture of the fact that it was getting dark - and that trekking solo - i was concerned about mixture of the trail being narrow and steep, and also the fact that I had a long walk back. I decided to skip the last 50 vertical metres or so of uphill climb, and decided to return back.
 
-![image](/assets/images/rajmachi/cave-at-rajmachi.webp)
-Cave, near to Rajmachi top
+<figure markdown="1">
+![Cave near Rajmachi top](/assets/images/rajmachi/cave-at-rajmachi.webp)
+<figcaption>Cave near Rajmachi top</figcaption>
+</figure>
 
 As expected, descending was a little nervy, but I got back before it got dark.
 
-![image](/assets/images/rajmachi/sunset-rajmachi.webp)
-Sunset at Rajmachi fort
-
-![image](/assets/images/rajmachi/sunset-lonavala.webp)
-Sunset at Lonavala
+<figure markdown="1">
+![Sunset at Rajmachi fort](/assets/images/rajmachi/sunset-rajmachi.webp)
+<figcaption>Sunset at Rajmachi fort</figcaption>
+</figure>
 
 ### The long walk back
 
 The long walk back was pure endurance - it got dark by about 7, and it was just me, my trekking pole and my lights, and a dog that accompanied me throughout the hike.
 
 It was really lovely, the walk back - knowing that I had effectively no option other than to continue walking.
-
-![image](/assets/images/rajmachi/dog-that-gave-me-company.webp)
-With the dog that accompanied me all the way...till another group came and he decided to follow them instead
-
-![image](/assets/images/rajmachi/me-with-lamp-pitch-dark-lonavala.webp)
-Me with a lamp amid pitch dark
 
 ### Back at the car
 

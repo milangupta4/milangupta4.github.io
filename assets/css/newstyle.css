@@ -288,3 +288,35 @@ a {
     to {bottom: 0; opacity: 0;}
   }
 
+
+/* Couple of CSS classes for post pages */
+
+.highlight {
+    background-color: #feeff1; 
+    padding: 10px;
+    border-radius: 16px;
+    font-size: 1rem; 
+    line-height: 1.6;
+    border: 0.2px solid #f5c2c7;
+}
+
+blockquote {
+    background-color: #feeff1; /* Same shade for consistency */
+    border-left: 4px solid #f5c2c7; /* A prominent pink border */
+    padding: 10px 15px;
+    margin: 20px 0; /* Spacing from surrounding content */
+    font-size: 0.95rem; /* Slightly smaller font size for quotations */
+    color: #333; /* Ensures good contrast for readability */
+}
+
+
+figure {
+	margin: 1.5em 0;
+	text-align: center;
+  }
+  
+  figcaption {
+	font-size: 1rem;
+	font-style: italic;
+	color: #666;
+  }

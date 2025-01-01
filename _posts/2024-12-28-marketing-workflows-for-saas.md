@@ -17,9 +17,15 @@ Why is that?
 
 For one, the audience you are reaching should be the right one. And the message that they get should be effective enough so they want to try out your product.
 
-### Brand-recall is multi-channel
+### Brand-recall and User reach is multi-channel
 
-Companies have so many channels to reach their customers. Customers can find them when they’re looking for “How to fix my RevOps team” on Google. Or they can see their feed filled with “Revenue automation” content on LinkedIn. If an enterprising seller finds their number on Zoominfo, they can get calls for Revenue automation services.
+Because customers are on so many platforms & channels at once, any marketing strategy has to be multi-channel. 
+
+Let's take a startup that is looking for RevOps automation solutions. 
+
+1. Customers may be searching for “How to fix my RevOps team” on Google (or Perplexity, enter AEO)
+2. Or they follow business LinkedIn, and their feed is filled all-day with motivational and Revenue Automation content
+3.  Their contact is on Apollo, and a cold outbound sales team is reaching out to them.
 
 Marketing strategy today looks a lot like an end-to-end workflow, that begins with the first customer contact to the customer getting nurtured by a BDR team and finally handed-off to Sales teams.
 

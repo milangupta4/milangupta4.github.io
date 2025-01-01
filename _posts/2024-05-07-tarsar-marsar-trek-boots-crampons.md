@@ -1,11 +1,32 @@
 ---
 layout: post
 title:  "Tarsar Marsar Trek - A wonderful Kashmir trek"
-date:   2023-11-07 12:32:07 +0530
+date:   2023-09-30 12:32:07 +0530
 categories: kipchoge
 custom_excerpt: "Tarsar Marsar trek in Kashmir valley is a trek along the Lidder river, with gorgeous views of Mt Kolahoi, and Tarsar, Marsar & Sundersar lakes"
 post_id: 21
 ---
+
+<div class="highlight" markdown="1">
+### Where is Tarsar Marsar trek?
+
+Tarsar Marsar trek is in Kashmir valley, and is a trek along the Lidder river.
+
+### How to reach the trail for Tarsar Marsar trek?
+
+The Tarsar Marsar starts and ends in Aru village, about 12km further from Pahalgam. You can reach Aru village from Srinagar by taking a taxi. The drive is about 100kms, and takes about 3 hours.
+
+### What is the best time to do Tarsar Marsar trek?
+
+The best time to do Tarsar Marsar trek is from June to September. The weather is pleasant, and the trek is doable.
+
+### What is the difficulty level of Tarsar Marsar trek?
+
+The trek is easy-moderate. It can be completed at a leisurely pace over 6 days. There is 1 long day - the hike from Tarsar lake to Sundersar & Marsar lakes.
+
+</div>
+
+![Boots & Crampons at Tarsar lake](/assets/images/2024/05/tarsar-marsar/07-boots-crampons-at-tarsar-lake.webp)
 
 This is a Trek report from the Tarsar Marsar lake trek in Kashmir valley. We did this trek with [Boots & Crampons](https://www.bootsandcrampons.com) - a boutique mountaineering & trekking company run by my dear friends Bharath and Romil sir.
 
@@ -13,28 +34,48 @@ This is a Trek report from the Tarsar Marsar lake trek in Kashmir valley. We did
 
 Long walk- first through pine forests and then through meadows besides the Lidder river. The acclimatization walk was up over the meadows along the stream coming from Tarsar Lake and from Sundersar Lake.
 
+<figure markdown="1">
 ![Day 1 on Tarsar-Marsar trek, as we walk alongside the Lidder river](/assets/images/2024/05/tarsar-marsar/01-day-1-tarsar-marsar.webp)
+<figcaption>Day 1 on Tarsar-Marsar trek, as we walk alongside the Lidder river</figcaption>
+</figure>
 
 
 The Lidder river itself originates from the Kolahoi glacier. While not visible in this stretch (as it was hidden by the mountain we were walking on), the Kolahai peak and glacier accompany and oversee you throughout the duration of this stunning trek. 
 
 There were a lot of sheep grazing above our Lidderwat campsite on Day 1. 
 
+<figure markdown="1">
 ![Aru valley from a distance](/assets/images/2024/05/tarsar-marsar/02-aru-valley-tarsar-marsar.webp)
+<figcaption>Aru valley from a distance</figcaption>
+</figure>
 
-There was this lightning-struck tree, that me and Paddy sir hiked to.
-![image.png](/assets/images/2024/05/tarsar-marsar/03-above-lidderwat.webp)
+
+
+<figure markdown="1">
+![Lightning-struck tree](/assets/images/2024/05/tarsar-marsar/03-above-lidderwat.webp)
+<figcaption>There was this lightning-struck tree, that me and Paddy sir hiked to.</figcaption>
+</figure>
 
 ### **Day 2** - Lidderwat to Shikwas
 
+On Day 2, we walked upstream alongside the stream coming from Tarsar lake.
+
 Here I took a nice dip in the stream descending from the lakes and joining the Lidder river.
 
-![image.png](/assets/images/2024/05/tarsar-marsar/04-lidderwat-to-shikwas-tarsar-marsar.webp)
+<figure markdown="1">
+![A light moment, enjoying the weather and posing](/assets/images/2024/05/tarsar-marsar/04-lidderwat-to-shikwas-tarsar-marsar.webp)
+<figcaption>A light moment, enjoying the weather and posing</figcaption>
+</figure>
 
+The day ended at Shikwas campsite, which sits on a fork in the trail. One trail leads to Tarsar lake, and the other to Sundersar lake.
+
+<figure markdown="1">
+![Shikwas campsite on Tarsar Marsar trek](/assets/images/2024/05/tarsar-marsar/05-shikwas-campsite-tarsar-marsar.webp)
+<figcaption>Shikwas campsite on Tarsar Marsar trek</figcaption>
+</figure>
 
 ### **Day 3** - Shikwas to Tarsar lake;
 
-![image.png](/assets/images/2024/05/tarsar-marsar/05-shikwas-campsite-tarsar-marsar.webp)
 Acclimatization hike was climb up to a ridge overlooking Tarsar lake 
 
 ### **Day 4** - Tarsar Lake to Sundarsar lake, to Marsar lake, and back to camp
@@ -44,7 +85,7 @@ Tarsar lake campsite to campsite before Sundarsar lake; post-lunch, walk to Sund
 ![image.png](/assets/images/2024/05/tarsar-marsar/06-morning-hike-from-tarsar-lake.webp)
 
 
-![image.png](/assets/images/2024/05/tarsar-marsar/07-boots-crampons-at-tarsar-lake.webp)
+
 
 
 ![image.png](/assets/images/2024/05/tarsar-marsar/08-uphill-hike-from-sundarsar-lake.webp)

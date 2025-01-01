@@ -5,6 +5,7 @@ date: 2024-12-14 12:31:07 +0530
 categories: product
 custom_excerpt: "How Sprig is enabling Product teams to incorporate user feedback to their apps from Day 1"
 post_id: 27
+featured: true
 ---
 
 We had over 300 Blocker bugs in Production.
