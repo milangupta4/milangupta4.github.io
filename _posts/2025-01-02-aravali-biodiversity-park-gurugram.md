@@ -9,7 +9,7 @@ post_id: 30
 ---
 
 <figure markdown="1">
-![Aravali Biodiversity Park](/assets/images/2025/01/aravali-biodiversity-park-gurugram/01-aravali-biodiversity-park-gurugram.webp)
+![Aravali Biodiversity Park](/assets/images/2025/01/aravali-biodiversity-park-gurugram/01-walking-track-aravali-biodiversity-park.webp)
 <figcaption>Aravali Biodiversity Park</figcaption>
 </figure>
 
