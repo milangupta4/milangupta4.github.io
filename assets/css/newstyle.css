@@ -292,12 +292,16 @@ a {
 /* Couple of CSS classes for post pages */
 
 .highlight {
-    background-color: #feeff1; 
+    background-color: rgb(255, 250, 228); 
     padding: 10px;
     border-radius: 16px;
     font-size: 1rem; 
     line-height: 1.6;
-    border: 0.2px solid #f5c2c7;
+    border: 0.2px solid rgb(255, 255, 200);
+}
+
+.highlight h3 {
+	padding-bottom: 0.8rem;
 }
 
 blockquote {
@@ -320,3 +324,7 @@ figure {
 	font-style: italic;
 	color: #666;
   }
+  
+figure img {
+	max-height: 70vh;
+}

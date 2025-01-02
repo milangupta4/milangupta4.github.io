@@ -7,15 +7,13 @@ custom_excerpt: "Run marketing programs at scale by leveraging Inbound, Outbound
 post_id: 29
 ---
 
-Marketing is getting harder.
+Marketing in 2024 is getting harder.
 
-Getting customer attention takes serious effort. The brightest minds at Tiktok, Instagram, YouTube and every new app are plotting how to get more of the customer’s attention.
+Getting customer attention takes serious effort. The brightest PMs at Tiktok, Instagram, YouTube and every new app are solving for getting more of the customer’s attention.
 
-In that context, SaaS marketing is looking very much similar to precision-guided missiles.
+In that context, marketing for SaaS is similar to precision-guided missiles. 
 
-Why is that?
-
-For one, the audience you are reaching should be the right one. And the message that they get should be effective enough so they want to try out your product.
+You need to reach the 1 right ICP in a crowd of 1000s of similar users. And your messaging should be right on point, conveying your value prop and the urgency to try your product.
 
 ### Brand-recall and User reach is multi-channel
 
