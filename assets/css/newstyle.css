@@ -328,3 +328,59 @@ figure {
 figure img {
 	max-height: 70vh;
 }
+
+/* Carousel styling*/
+
+.blog-carousel {
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.blog-carousel-inner {
+    display: flex;
+    transition: transform 0.3s ease-in-out;
+}
+
+.blog-carousel-item {
+    min-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.blog-carousel-item img {
+    max-height: 60vh;
+    object-fit: contain;
+}
+
+.blog-carousel-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 16px;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.blog-carousel-button:hover {
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.prev {
+    left: 10px;
+}
+
+.next {
+    right: 10px;
+}
+
+.caption {
+    text-align: center;
+    margin-top: 10px;
+}
