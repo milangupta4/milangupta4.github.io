@@ -12,16 +12,18 @@ Okhla Bird sanctuary is an under-rated escape from the city. It is one of the ve
 
 ### NCR has its own Marine drive
 
-A seated parapet besides an expansive water body. 
+Well, not quite. 
 
-Unfortunately, that's kind of where the comparisons with Marine drive end. But they are both beautiful, albeit in different ways.
+There is a seated parapet besides an expansive water body. And that's where the comparisons with Marine drive end.
+
+If you are looking for a quiet place to walk or to just to contemplate life, Okhla bird sanctuary is indeed a good place.
 
 <figure markdown="1">
 ![The closest NCR can come to having its own Marine drive](/assets/images/2024/11/okhla-bird-sanctuary/04-okhla-bird-sanctuary-standing-water.webp)
 <figcaption>The closest NCR can come to having its own Marine drive</figcaption>
 </figure>
 
-The 2.5km walking track continuously gives changing views of the Yamuna river, replete with birds swimming the water and Jungle babblers babbling & being angry around.
+The 2.5km walking track continuously gives changing views of the Yamuna river, replete with birds swimming on the water and Jungle babblers babbling & angrily chirping.
 
 <figure markdown="1">
 ![Walking track near Okhla Bird Sanctuary](/assets/images/2024/11/okhla-bird-sanctuary/01b-okhla-bird-sanctuary-walking-track.webp)
@@ -31,19 +33,31 @@ The 2.5km walking track continuously gives changing views of the Yamuna river, r
 
 ### How to reach?
 
-There are 2 approaches - one is near the Kalindi Kunj bridge (near the appropriately named Okhla Bird Sanctuary metro station).
+There are 2 gates, one at each end of the road along the Yamuna river barrage. 
 
-The other approach is from the Chilla border between Noida and Delhi, on the road between the Akshardham temple and Noida film city. If you're coming by car, this is the most convenient approach. 
+One entry is near the Kalindi Kunj bridge, near the appropriately named Okhla Bird Sanctuary metro station.
+
+The other entry is from the Chilla border between Noida and Delhi, on the road between the Akshardham temple and Noida film city. If you're coming by car, I would recommend this entry as there is ample parking space. There is no paid parking as such and no parking attendant. But if you're coming in the morning, you'll find plenty of other cars parked on the road. 
+
+If you're coming from Noida, then just before the Delhi border, take a left turn on the bird sanctuary road. Continue straight for 1.5kms - you will pass a Shani mandir on your right, then the DND Toll offices, a cow shelter, and finally you'll drive under an overbridge, and then you'll reach the Okhla Bird Sanctuary gate. 
+
+The Map below is the most accurate listing of the gate.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.871219352645!2d77.30470861032246!3d28.573629569818127!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce5b4f3e2c8a3%3A0x21f116eba94fd551!2sWatch%20tower%20entry%20bird%20sanctuary!5e0!3m2!1sen!2sin!4v1735918637094!5m2!1sen!2sin" class="google-map-embed" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Key details about the park
 
 Okhla Bird sanctuary is open around the year. It is closed on Mondays. The timings of the park at 7am - 5pm, and at the entry you are charged Rs. 30 for entry.
 
-An e-rickshaw service also operates inside the park premises, transporting visitors from one end of the park to the other end for a fees.
+The absolute best time to visit is in the mornings, when the park is quiet and the birds are active.
 
 The Bird Sanctuary itself is a 2.5km walk along the Yamuna river barrage, of which 2kms is on a well-paved road free of traffic, and 500 metres is on a well-maintained trail.
 
-Timings - 7am - 5pm, closed on Mondays
+An e-rickshaw service also operates inside the park premises, transporting visitors from one end of the park to the other end for a fees.
+
+
+
+
 
 
 ### The History

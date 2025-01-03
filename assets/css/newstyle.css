@@ -1,7 +1,4 @@
-.home {
-	margin-left: auto;
-	margin-right: auto;
-}
+/** Site wide stylings */
 
 p {
 	line-height: 1.6em;
@@ -10,6 +7,7 @@ p {
 body {
 	font-family: 'Lato';
 }
+
 
 /** Wrapper */
 .navbar-wrapper {
@@ -58,6 +56,10 @@ body {
 }
 
 
+.home {
+	margin-left: auto;
+	margin-right: auto;
+}
 
 .image-caption{
 	display: block;
@@ -69,32 +71,28 @@ body {
 	color: grey;
 }
 
+.hero-section h1 {
+	text-align: center;
+}
+
 @media screen and (min-width: 800px) {
 	.hero-section {
-		width: 70%;
+		width: 70vw;
 		margin: auto;
 		margin-bottom: 4vw;
 	}
-	.hero-section h1 {
-		text-align: center;
-	}
-
+	
 	.wrapper {
 		max-width: 800px;
 	}
 }
 
 @media screen and (max-width: 799px) {
-	.contact.hero-section {
-		width: 90%;
+	.hero-section {
+		width: 90vw;
 		margin: auto;
 	}
-	.hero-section h1 {
-		text-align: center;
-	}
 }
-
-
 
 .home-image {
 	max-width: 90%;
@@ -290,7 +288,7 @@ a {
 
 
 
-/* Carousel styling*/
+/* Carousel stylings for blog images*/
 
 .blog-carousel {
     position: relative;
@@ -353,6 +351,12 @@ a {
 	height: 800px;
 }
 
+.google-map-embed {
+	width: 600px;
+	max-width: 90vw;
+	height: 450px;
+	border: 0;
+}
 
 /* Couple of CSS classes for post pages */
 
@@ -395,7 +399,7 @@ figure img {
 	max-height: 70vh;
 }
 
-
+/* Post stylings */
 .post-subtitle{
 	margin-top: 3.2vh;
 	margin-bottom: 2vh;

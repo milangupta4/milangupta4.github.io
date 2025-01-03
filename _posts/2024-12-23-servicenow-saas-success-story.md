@@ -13,6 +13,11 @@ ServiceNow is a digital workflow platform that has its roots (and largest usage)
 
 ServiceNow is a shining example of the outstanding success that a SaaS company can achieve when it combines a vision with perfectionist execution. 
 
+<figure markdown="1">
+![ServiceNow](/assets/images/2024/dec/servicenow/02-ServiceNow-Symbol.png)
+<figcaption>ServiceNow</figcaption>
+</figure>
+
 ### The Story
 ---
 
@@ -22,6 +27,11 @@ ServiceNow is a shining example of the outstanding success that a SaaS company c
 4. **From startup to scaleup** - 2008 - Success & PMF - keeping the lights on, amidst the major usage across customers. 
 5. **Customer Success** - Hired Frank Slootman to scale the company. Problem number 1 was keeping the lights on 100
 6. Evolution from helpdesk software to ERP for IT:
+
+<figure markdown="1">
+![ServiceNow](/assets/images/2024/dec/servicenow/01-servicenow-stock.webp)
+<figcaption>Heading into 2025, ServiceNow stock retains a buy rating</figcaption>
+</figure>
 
 > **Frank Slootman:** We fairly quickly started to look at evolving our positioning from help desk replacement to what we refer to as the ERP for IT. The idea was that IT would have its own system of record, it would have its own platform where all the functions of IT would be, you have a single database and a fully integrated system. That had never been done, and people looked at us like, what? ERP for IT? What are you talking about? You’re a help desk replacement tool.
 > 
