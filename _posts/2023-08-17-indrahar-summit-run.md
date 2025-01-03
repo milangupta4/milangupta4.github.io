@@ -3,8 +3,29 @@ layout: post
 title:  "Indrahar Summit Run"
 date:   2023-08-17 12:32:07 +0530
 categories: kipchoge
+subtitle: "Epic trail run on Triund-Snowline-Indrahar trail near McLeodganj"
+custom_excerpt: "Epic trail run on Triund-Snowline-Indrahar trail near McLeodganj"
 post_id: 19
 ---
+
+<div class="highlight" markdown="1">
+### Where is Indrahar Summit Run?
+
+Indrahar Summit is the mountain pass in the Dhauladhar himalayas, connecting the Kangra valley to the Chamba valley. 
+
+To start the run, you need to reach Mcleodganj.
+
+### When is the Indrahar Summit Run organised?
+
+The Indrahar Summit Run is organized by Boots & Crampons, and is held every year in October.
+
+### What is the difficulty level of the Indrahar Summit Run?
+
+The Indrahar Summit Run is more of a trail hike, than a run. The trail itself is very well marked and non-technical till Snowline/ Laka. Beyond Laka, there is a bit of boulder hopping. Boots & Crampons have a very strong support crew, and the route is well marked.
+</div>
+
+
+![image](/assets/images/indrahar/03-snowline.webp)
 
  The Triund trek is an immensely popular trek in the Indian Himalayas. This trek starts from Mcleodganj in the Dhauladhar foothills and climbs to the mountain ridge that overlooks the Kangra valley. 
  ![image](/assets/images/indrahar/13-triund.webp)
@@ -64,7 +85,7 @@ I reached Triund, amid a bit of a snafu with my trekking pole. Bharath Thamminen
 ![image](/assets/images/indrahar/02-triund.webp)
 
 At 7:30am I Reached Snowline. A lot of people doing the 20k overtook me at this time. The 20k route overlapped with the 30k route till Snowline cafe, and had started at 4:30am.
-![image](/assets/images/indrahar/03-snowline.webp)
+
 
 At the Snowline camp I Stocked up on water and Fast&Up energy drink and snickers. Uptil snowline my pace was fairly comfortable - 3:30minutes for 10kms is not bad, for such an uphill run!
 
@@ -120,3 +141,7 @@ What I loved about the event:
 3. the support personnel were extremely supportive. On reaching Indrahar top I expressed my concern about descending and got a gentle encouraging reply, to take it easy, and till Laka there is no need to hurry
 
 As always, the energy Romil sir brought into the event was absolutely shining through!
+
+Here's the Suunto file for the route.
+
+<iframe src="https://maps.suunto.com/move/milangupta/63418468ff308d050293efde" class="suunto-embed" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

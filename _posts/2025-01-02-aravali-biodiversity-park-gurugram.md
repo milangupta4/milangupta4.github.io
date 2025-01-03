@@ -49,5 +49,6 @@ post_id: 30
 </figure>
 
 Here's my Suunto file for the route.
-<iframe src="https://maps.suunto.com/move/milangupta/6774b877512bc4655e78319c" width="600" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<iframe src="https://maps.suunto.com/move/milangupta/6774b877512bc4655e78319c" class="suunto-embed" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
