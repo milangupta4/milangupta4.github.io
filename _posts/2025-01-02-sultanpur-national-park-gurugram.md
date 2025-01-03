@@ -56,3 +56,6 @@ Much like [Aravali Biodiversity Park](/blog/aravali-biodiversity-park-gurugram/)
 ![](/assets/images/2024/dec/sultanpur-park/09-walking-track-towards-end.webp)
 <figcaption></figcaption>
 </figure>
+
+Here's a strava file to get a sense of the route.
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="13057241651" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>

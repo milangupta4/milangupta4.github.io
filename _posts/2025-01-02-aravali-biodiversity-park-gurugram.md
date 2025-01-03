@@ -47,3 +47,7 @@ post_id: 30
 ![Aravali Biodiversity Park](/assets/images/2025/01/aravali-biodiversity-park-gurugram/08-metro-line-in-distance.webp)
 <figcaption>Aravali Biodiversity Park</figcaption>
 </figure>
+
+Here's my Suunto file for the route.
+<iframe src="https://maps.suunto.com/move/milangupta/6774b877512bc4655e78319c" width="600" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
