@@ -63,7 +63,6 @@ body {
 
 .image-caption{
 	display: block;
-	max-width: 90%;
 	padding-top: 15px;
 	padding-left: 5px;
 	padding-right: 5px;
@@ -73,6 +72,14 @@ body {
 
 .hero-section h1 {
 	text-align: center;
+}
+
+.home h2 {
+	text-align: center;
+}
+
+.home-about-me {
+	margin-bottom: 20px;
 }
 
 @media screen and (min-width: 800px) {
@@ -85,12 +92,20 @@ body {
 	.wrapper {
 		max-width: 800px;
 	}
+
+	.home .image-caption {
+		max-width: 60vw;
+	}
 }
 
 @media screen and (max-width: 799px) {
 	.hero-section {
 		width: 90vw;
 		margin: auto;
+	}
+
+	.home .image-caption {
+		max-width: 90vw;
 	}
 }
 
