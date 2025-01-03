@@ -289,45 +289,6 @@ a {
   }
 
 
-/* Couple of CSS classes for post pages */
-
-.highlight {
-    background-color: rgb(255, 250, 228); 
-    padding: 10px;
-    border-radius: 16px;
-    font-size: 1rem; 
-    line-height: 1.6;
-    border: 0.2px solid rgb(255, 255, 200);
-}
-
-.highlight h3 {
-	padding-bottom: 0.8rem;
-}
-
-blockquote {
-    background-color: #feeff1; /* Same shade for consistency */
-    border-left: 4px solid #f5c2c7; /* A prominent pink border */
-    padding: 10px 15px;
-    margin: 20px 0; /* Spacing from surrounding content */
-    font-size: 0.95rem; /* Slightly smaller font size for quotations */
-    color: #333; /* Ensures good contrast for readability */
-}
-
-
-figure {
-	margin: 1.5em 0;
-	text-align: center;
-  }
-  
-  figcaption {
-	font-size: 1rem;
-	font-style: italic;
-	color: #666;
-  }
-  
-figure img {
-	max-height: 70vh;
-}
 
 /* Carousel styling*/
 
@@ -392,9 +353,68 @@ figure img {
 	height: 800px;
 }
 
+
+/* Couple of CSS classes for post pages */
+
+.highlight {
+    background-color: rgb(255, 250, 228); 
+    margin: 0 calc(-6vh);
+	padding: 1vh 6vh;
+    border-radius: 16px;
+    font-size: 1rem; 
+    line-height: 1.6;
+    border: 0.2px solid rgb(255, 255, 200);
+}
+
+.highlight h3 {
+	padding-bottom: 0.8rem;
+}
+
+blockquote {
+    background-color: #feeff1; /* Same shade for consistency */
+    border-left: 4px solid #f5c2c7; /* A prominent pink border */
+    padding: 10px 15px;
+    margin: 20px 0; /* Spacing from surrounding content */
+    font-size: 0.95rem; /* Slightly smaller font size for quotations */
+    color: #333; /* Ensures good contrast for readability */
+}
+
+
+figure {
+	margin: 1.5em 0;
+	text-align: center;
+  }
+  
+  figcaption {
+	font-size: 1rem;
+	font-style: italic;
+	color: #666;
+  }
+  
+figure img {
+	max-height: 70vh;
+}
+
+
 .post-subtitle{
 	margin-top: 3.2vh;
 	margin-bottom: 2vh;
 	font-size: 1.5rem;
 	color: #888;
+}
+
+.post-footer{
+	background-color: #f8f9fa;
+	margin: 0 calc(-3vh);
+	padding: 2vh 3vh;
+	border-radius: 16px;
+}
+
+.post-footer ul{
+	margin-left: 0;
+}
+
+.post-footer li{
+	list-style-type: none;
+	padding-bottom: 0.8vh;
 }

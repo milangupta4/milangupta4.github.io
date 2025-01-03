@@ -52,6 +52,8 @@ This was a general-access road till the late 90s. For travel from Noida to Farid
 
 Around the end of 90s, this was converted into a gated preserve, even as other infrastructure projects facilitated travel between Noida-Delhi-Faridabad. 
 
+The lake is actually the reservoir from the barrage downstream at Okhla barrage. If you're unlucky, they may open the barrage to release water, and you'll be left with a muddy / non-existent lake.
+
 ### Conservation & birds status
 
 Wildlife - Nilgai

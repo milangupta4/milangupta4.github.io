@@ -4,6 +4,7 @@ title: "ServiceNow - How an IT Helpdesk software has transformed into a $200bn+ 
 date: 2024-12-23 12:31:07 +0530
 categories: product
 custom_excerpt: "A success founded on a scalable product architecture, a visionary team that shaped how IT departments run , and a get-it-done-yesterday attitude to execution."
+subtitle: "A success founded on a scalable product architecture, a visionary team that shaped how IT departments run, and a get-it-done-yesterday attitude to execution."
 post_id: 28
 featured: true
 ---
@@ -12,10 +13,7 @@ ServiceNow is a digital workflow platform that has its roots (and largest usage)
 
 ServiceNow is a shining example of the outstanding success that a SaaS company can achieve when it combines a vision with perfectionist execution. 
 
-Its success is founded on a product architecture that enabled it to be extended to limitless use-cases over the years, a visionary team that was aware of market forces and steered the company along the right directions, and a get-it-done-yesterday attitude to execution.
-
-# The Story
-
+### The Story
 ---
 
 1. **Founded in 2003 by Fred Luddy**. Highly extensible design - initially a swiss army knife software, that can enable teams to build apps on top of their DBs. A primitive low-code no-code platform
@@ -39,8 +37,7 @@ Its success is founded on a product architecture that enabled it to be extended 
 1. IPO - In 2012. Within a few years of the 
 2. Enterprise SaaS behemoth
 
-# Core Value Prop
-
+### Core Value Prop
 ---
 
 Large orgs function via their workflows. A major chunk of the work of Support functions such as IT and HR is in receiving and processing employee requests. A workflow looks like:
@@ -54,8 +51,7 @@ This workflow remains as true in 2024 as it did in 2003. The amount of friction,
 
 ServiceNow is the most reliable partner for Fortune 500 enterprises when they seek to streamline their IT & Support functions.
 
-# How is ServiceNow used
-
+### How is ServiceNow used
 ---
 
 1. **End Users**
@@ -72,7 +68,8 @@ ServiceNow is the most reliable partner for Fortune 500 enterprises when they se
 
 Let’s take this example from Acme Enterprises:
 
-## **Example Workflow**
+### **Example Workflow**
+---
 
 1. An employee reports a laptop issue via the ServiceNow portal.
 2. Virtual agent dynamically collects additional information using tailored questions
@@ -83,20 +80,19 @@ Let’s take this example from Acme Enterprises:
 
 This structured approach ensures faster resolution times, improved user experience, and enhanced operational efficiency for Acme Enterprises.
 
-# The Product
-
+### The Product
 ---
 
 It is built on top of Now Platform.
 
 ### ServiceNow is leading with AI Initiatives
 
+
 Now Assist
 
 RaptorDB
 
-# Revenues breakdown by workflows
-
+### Revenues breakdown by workflows
 ---
 
 On track to achieve $10.66 bn in revenue in 2024. Targeting an Operating income of $3.14 bn. (non-GAAP operating margin is 29.5%). 
@@ -106,7 +102,6 @@ As of December ‘24, ServiceNow’s Market cap stands at a robust $230 billion.
 The company also reports current remaining performance obligation - revenue deferred for future services + contractually obligated revenue - for the next 12 months. cRPO grew from $7.43bn to $9.36bn YoY from FY23 to FY24.
 
 ### Revenue Growth continues on the back of strong Enterprise GTM & Product Innovations
-
 ---
 
 With revenue growth at 23% and Operating income at 29%, ServiceNow’s Rule of 50 metric is 52% - this is a company executing at an elite level.
@@ -126,7 +121,6 @@ In Q3 results:
 > 
 
 ### Pricing & Revenue breakdown by Workflows
-
 ---
 
 IT Service & Operations Management - 53% of revenue
@@ -145,11 +139,8 @@ Creator workflow - 17% of revenue
 - Automation Engine
 - Vault
 
-# What Customers say
-
----
-
 ### Customer Service Management
+---
 
 “Get your Incidents, Problem Tickets and Change Management streamlined”
 
@@ -161,17 +152,15 @@ https://www.g2.com/products/servicenow-servicenow-now-platform/reviews/serviceno
 
 1. Difficult to understand and build for newbie users - strong Partner ecosystem
 
-# Links
-
+### Links
 ---
 
-1. Substack highlighting ServiceNow’s robust model -https://outperformingthemarket.substack.com/p/servicenow-high-quality-software
-    1. cRPO is outstanding
-2. Q3 analysis - https://www.investing.com/news/stock-market-news/earnings-call-servicenow-reports-robust-q3-growth-raises-2024-outlook-93CH-3680440
+1. [Outperforming the Market substack highlighting ServiceNow’s robust model](https://outperformingthemarket.substack.com/p/servicenow-high-quality-software)
+2. [Q3 analysis via investing.com](https://www.investing.com/news/stock-market-news/earnings-call-servicenow-reports-robust-q3-growth-raises-2024-outlook-93CH-3680440)
 3. G2 Reviews: 
     1. https://www.servicenow.com/lpebk/hl-g2-reviews-app-engine.html
     2. https://www.g2.com/products/servicenow-it-service-management/reviews
     3. https://www.g2.com/products/servicenow-customer-service-management/reviews
     4. https://www.g2.com/products/servicenow-servicenow-now-platform/reviews
 4. Perplexity research - https://www.perplexity.ai/search/i-am-researching-servicenow-bu-hVObDtW1R..1xKtcOgKkfQ
-5. Sequoia Podcast on ServiceNow - https://www.sequoiacap.com/podcast/crucible-moments-servicenow/
+5. [Sequoia Podcast on ServiceNow](https://www.sequoiacap.com/podcast/crucible-moments-servicenow/)
