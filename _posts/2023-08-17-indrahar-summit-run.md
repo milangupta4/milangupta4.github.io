@@ -6,6 +6,7 @@ categories: kipchoge
 subtitle: "Epic trail run on Triund-Snowline-Indrahar trail near McLeodganj"
 custom_excerpt: "Epic trail run on Triund-Snowline-Indrahar trail near McLeodganj"
 post_id: 19
+featured: true
 ---
 
 <div class="highlight" markdown="1">

@@ -1,0 +1,116 @@
+/* Home page stylings */
+
+.home {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.home .image-caption{
+	display: block;
+	padding-top: 15px;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin: 0 auto;
+	color: grey;
+}
+
+.hero-section h1 {
+	text-align: center;
+}
+
+.home h2 {
+	text-align: center;
+}
+
+.home-about-me {
+	margin-bottom: 20px;
+}
+
+@media screen and (min-width: 800px) {
+	.hero-section {
+		width: 70vw;
+		margin: auto;
+		margin-bottom: 4vw;
+	}
+	
+	.home .image-caption {
+		max-width: 60vw;
+	}
+}
+
+@media screen and (max-width: 799px) {
+	.hero-section {
+		width: 90vw;
+		margin: auto;
+	}
+
+	.home .image-caption {
+		max-width: 90vw;
+	}
+}
+
+.home-image {
+	max-width: 90%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.home-hero-image {
+	/* max-width: 70%; */
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+}
+
+.workplaces-strip {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+    background-color: #f8f9fa; 
+}
+
+@media screen and (min-width: 800px) {
+	.workplaces-strip {
+		width: 100%;
+		flex-direction: row;
+	}
+	.home-image-block img {
+		width: 40%;
+	}
+
+	.home-image-profile img {
+		width: 20%;
+	}
+}
+
+@media screen and (max-width: 799px) {
+	.workplaces-strip {
+		flex-direction: column;
+	}
+
+	.workplaces-strip img{
+		padding-bottom: 20px;
+	}
+
+	.home-image-block img {
+		width: 80%;
+	}
+
+	.home-image-profile img {
+		width: 50%;
+	}
+}
+
+.workplaces-strip img {
+    height: 100px; /* Set a fixed height for all images */
+    object-fit: cover; /* Ensure images cover the height without distortion */
+    margin: 0 10px; /* Optional: Add some spacing between images */
+}
+
+.home-image-block img, .home-image-profile img {
+	display: block;
+	margin: 0 auto;
+}
