@@ -1,57 +1,104 @@
 ---
 layout: post
-title:  "B2B SaaS Startup Metrics - decoding ARR, ACV and everything you need to know"
-date:   2024-12-04 12:31:07 +0530
-categories: product
-custom_excerpt: "We use examples of top SaaS companies to simplify key metrics related to valuation, revenue, profitability and growth"
+title: "The Ultimate Guide to B2B SaaS Metrics: Understanding ARR, ACV, and Beyond"
+date: 2024-12-04 12:31:07 +0530
+categories: [product, marketing]
+custom_excerpt: "A deep dive into the key metrics that drive B2B SaaS valuations, featuring real-world examples from Atlassian, Salesforce, and HubSpot"
 post_id: 25
 ---
 
-Here we use examples from B2B SaaS companies - Atlassian, Mailchimp (Intuit), Salesforce, Hubspot, Freshworks, to demonstrate key concepts for B2B startups that are selling for enterprises & SMBs. 
+In the complex world of B2B SaaS, metrics tell the story of a company's health and potential. Whether you're a founder seeking funding or an investor evaluating opportunities, understanding these metrics is crucial. Let's decode the most important ones using real-world examples from industry leaders like Atlassian, Salesforce, and HubSpot.
 
+## Valuation: The North Star Metric
 
-# Top-line metrics
+Valuation in SaaS isn't just about current revenue—it's a reflection of market opportunity and execution capability. Take HubSpot's journey: what started as an $11 million Series A valuation in 2007 has transformed into a company worth over $25 billion in 2024. This astronomical growth wasn't accidental; it was built on the foundation of inbound marketing revolution and consistent execution.
 
-1. **Valuation** - this reflects the enterprise value of the business. For startups going through different series of funding - seed to Series D and further, this valuation is expected to grow as the startup generates more revenue and margins. For public companies, this is the market capitalization of all outstanding shares.
-2. **ARR - Annual Recurring revenue** - This number reflects the annual revenue that a startup is expected to generate in the current financial year. It is calculated by summing the total deal value across all customers. Startups can use either/ both of Contracted ARR and Execution ARR to reflect their value.
-1. Contracted ARR - this reflects the sum of contracted value across all customers.
-2. Execution ARR - this reflects the realized value across all customers.
-To highlight the difference across the two, let's take the (fictional) example of Atlassian selling their productivity software to Reliance Industries. The IT team at Reliance has committed to onboarding 50,000 employees to Atlassian's tools. Let's say Atlassian is charging $100 per customer onboarded, the contract value of the deal becomes:
-$100 * 50,000 = $ 5 million
-However, the payment terms make clear that the per user seat is payable only when the teams are actually onboarded.
-So, let's say only teams comprising of 10,000 employees are actually onboarded to Atlassian. What does that mean - the execution ARR is
-$100 * 10,000 = $ 1 million
+HubSpot's funding journey tells a compelling story:
 
-Because execution ARR reflects the actual usage, it is the metric that VCs would use when valuing a startup. Startups celebrating revenue milestones will be likelier to be using Contract ARR, as this is a bigger number!
+| Year | Round      | Amount       | Post-Money Valuation | Customers | Key Investors                                    |
+|------|------------|--------------|---------------------|-----------|--------------------------------------------------|
+| 2007 | Series A   | $5 million   | $11 million        | <500      | General Catalyst                                 |
+| 2008 | Series B   | $12 million  | $52 million        | 1,000     | Matrix Partners                                  |
+| 2009 | Series C   | $16 million  | $100 million       | 1,800     | Scale Venture Partners                           |
+| 2011 | Series D   | $32 million  | $200 million       | 4,000     | Sequoia Capital, Google Ventures, Salesforce.com |
+| 2014 | IPO        | $125 million | $759 million       | 11,500    | Public Market                                    |
 
-# **Valuation Ratios**
+## Annual Recurring Revenue (ARR): The Growth Engine
 
-1. **Valuation to ARR ratio** - This ratio is more relevant for fast-growth companies. Market capture is the most important objective.
-2. **Valuation to Operating Margin (non-GAAP) ratio;** In principle this is similar to Price to Earnings ratio that public markets refer to. For early stage startups where revenue growth is more important, the valuation to ARR is more relevant.
+ARR is perhaps the most critical metric in SaaS, but it's more nuanced than most realize. There are two key variants:
 
-# Profitability
+### Contracted vs. Execution ARR
 
-1. **Gross Margin** - For every incremental $ that the business earns, what percentage is left after costs to serve are deducted - this metric captures the unit economics of the business. Let’s say you are Mailchimp.
-    1. **Mailchimp** has signed a contract of $1,000 Annual value with a business for their email automation requirements.
-    2. **Technical delivery costs** - Mailchimp has their infra setup on AWS. Let’s assume the new client requires $60 worth of infrastructure costs to Mailchimp, and $20 from other SaaS vendors used by Mailchimp. Total $80 for technical delivery costs.
-    3. **Support** - Onboarding & technical support. Mailchimp also offers onboarding & professional services so that the teams can get started. Total cost is $70
-        1. Onboarding team conducts an all-hands-on-deck webinar - $30
-        2. Mailchimp has used a DAP platform like Whatfix for customers to become familiar with their tool. - $10
-        3. Support engineers are helping out customers with their technical email setup - DMARC, DKIM, SMPT details - $30
-    4. After accounting for technical delivery and support costs, MailChimp makes 85% ($1,000 - ($80 + $70)) of the revenue as operating margins.
-    5. Operating margin, + Total addressable market, is what captures the scalability of the business
-2. **Operating Margin** - this metric captures every cost that the business incurs. To start with, this metric is likely negative. The startup is setting out to build a product that customers are going to be needing, without having any customer pay for it yet. The major headers for operating margin would be:
-    1. Full team expenses - including Product, Engineering, Marketing & Sales expenses
-    2. Technical operating costs
-    3. Subscription costs for running business
+Consider this real-world scenario from Atlassian:
 
-### Revenue Metrics
+```
+Enterprise Deal Example:
+- Contract: 50,000 seats @ $100/seat
+- Contracted ARR: $5 million
+- Actually deployed: 10,000 seats
+- Execution ARR: $1 million
+```
 
-1. **Net Recurring Revenue** - of revenue from existing customers, what percentage can you project to grow year-on-year. Is the customer’s usage increasing/ are they buying upsold services
-2. **Annual customer value (ACV)**
+While contracted ARR looks impressive in press releases, execution ARR is what investors care about. It represents real usage and customer value delivery.
 
-<aside>
+## The Revenue Quality Triangle
 
-I’ll use the words Valuation & Capitalization interchangeably here.
+### 1. Net Revenue Retention (NRR)
 
-**Valuation** is used in the context of a set of individuals valuing a company; **Capitalization** is determined by the general shareholding public
+This metric is the holy grail of SaaS health. Best-in-class companies like Snowflake maintain NRR above 160%, meaning existing customers spend 60% more each year. A healthy NRR looks like:
+- Enterprise SaaS: >120%
+- Mid-market: >110%
+- SMB: >100%
+
+### 2. Annual Contract Value (ACV)
+
+ACV helps understand your customer segmentation and go-to-market efficiency. For instance:
+- Salesforce Enterprise: $120,000+ ACV
+- HubSpot Professional: $15,000 - 50,000 ACV
+- Atlassian Team: $5,000 - 15,000 ACV
+
+### 3. Gross Margin
+
+Let's break down a realistic SaaS cost structure using Mailchimp as an example:
+
+```
+Revenue: $1,000 annual contract
+Costs:
+- Infrastructure (AWS): $60
+- Third-party services: $20
+- Onboarding support: $30
+- Customer success tools: $10
+- Technical support: $30
+Total costs: $150
+Gross margin: 85%
+```
+
+## Valuation Multiples: The Market's Verdict
+
+Modern SaaS companies are valued using two primary metrics:
+
+1. **ARR Multiple**
+   - High-growth companies (>80% YoY): 20-30x ARR
+   - Moderate growth (40-80% YoY): 10-20x ARR
+   - Stable growth (<40% YoY): 5-10x ARR
+
+2. **Operating Margin Multiple**
+   - More relevant for mature companies
+   - Industry average: 15-25x operating profit
+   - Premium players like Salesforce: 30-40x
+
+## Operating Costs: The Reality Check
+
+For early-stage SaaS companies, operating costs typically break down as:
+
+- R&D (Product & Engineering): 35-45%
+- Sales & Marketing: 40-50%
+- G&A: 15-20%
+
+This usually results in negative operating margins for the first few years, with a path to profitability at scale. Successful companies like Zoom and MongoDB have shown that prioritizing growth over early profitability can lead to stronger market positions.
+
+## The Bottom Line
+
+Understanding these metrics isn't just about tracking numbers—it's about building a sustainable SaaS business. The most successful companies maintain a delicate balance between growth and efficiency, using these metrics as their compass rather than their destination.
+
+Remember: While these metrics provide a framework, exceptional companies often break the mold. Slack's viral growth or Zoom's efficiency metrics showed that innovation in business models can rewrite the rules of what's possible in SaaS.
