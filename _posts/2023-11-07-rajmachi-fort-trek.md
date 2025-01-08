@@ -21,12 +21,14 @@ For the Lonavala side, you can drive to [Tungarli dam](https://maps.app.goo.gl/i
 
 For a slightly easier trek, you can start the hike from near [Della resort](https://maps.app.goo.gl/jqA13hqu8wrfhWWDA){:target="_blank"}.
 
+If you're coming by train, you can take a train to Lonavala, and then take a cab to the trailhead.
+
 ### How difficult is Rajmachi trek?
-Rajmachi fort trek has two stretches. 
+Rajmachi fort trek, when taken from Lonavala, has two stretches. 
 
 The first stretch is a walk to Uddhewadi village. This is a 10km walk on an undulating jeep track. You can skip this hike by taking a bumpy ride on a 4-wheel drive/ 2 wheeler. 
 
-The second stretch is the hike up the hill from Uddhewadi village to the top of the fort.
+The second stretch is the hike up the hill from Uddhewadi village to the top of the Shrivardhan and Manaranjan fort.
 
 </div>
 <figure markdown="1">
@@ -38,23 +40,62 @@ The second stretch is the hike up the hill from Uddhewadi village to the top of 
 
 I had first visited this trek on a stay near to Tungarli dam in Lonavala. 
 
-Fariyas hotel did a guided tour for us to Tungarli dam. Rajmachi fort trek has two trailheads - one at Tungarli dam, and the other near to Della Adventure resort. 
+Fariyas hotel did a guided tour for us to Tungarli dam. The dam is a pretty good spot for visitors, as you can park a car nearby and walk about 1km to the lake.
+
+So, on my next trip to Lonavala, I sneaked out, parked my car near the Tungarli dam, and headed out to the Tungarli dam trailhead
 
 The route starting from Tungarli dam starts through dense greenery and gives a good view of the valley that you'll be trekking along. It then converges with the jeep track that comes up from Della Resort.
 
 This trek report is from two solo hikes that I did in quick succession in October '23. I started both hikes around afternoon. 
 
-I comfortably parked my car at the free parking near to Della Resort.
-
 ### The itinerary for Rajmachi Fort trek
 
-A two hour drive from Mumbai to Lonavala. trailhead starts near Della Resort. A comfortable 11km walk to Udhewadi village - very easy walk on a jeep track. About a 1-1.5 km uphill walk to the top of the fort, where you get a 360 degree view of the Sahyadris that connect the hill towns of Lonavala and Karjat.
+A two hour drive from Mumbai to Lonavala. 
+
+A comfortable 11km walk to Udhewadi village - very easy walk on a jeep track.
+
+The first 3-4 kilometres are besides a hill that separates the Tungarli dam from the trail. The forests are not very dense at this point, and you get a good view of the valley that you'll be trekking along.
+
+
+Depending on the season, you may pass the Kaataldhar waterfall. This is a raging torrent during monsoon - special care needs to be taken while crossing this. Rest of the year this may just be a trickle.
+
+After a forest checkpost at about 3km point (from Della resort), you pass the village of Fanasrai.
+
+<figure markdown="1">
+![view of Kaataldhar waterfall](/assets/images/rajmachi/kaataldhar-waterfall.webp)
+<figcaption>A nice view of the route that I had taken - essentially you cross a pass that connects the two ridges</figcaption>
+</figure>
+
+After crossing Fanasrai, you pass through the dense Shirota forest. This will be a very noisy walk - it is as if the forest has come to life here.
+
+Continue walking, and there is a fork in the road. **We have to take the left fork.**
+
+(If you take the right fork, you will reach the Shirota lake. )
+
+The scenery will change as you walk through the forest. You will pass through a pass that connects the two ridges.
+
+As you continue walking, the views of the fort become ever more clearer.
+
+<figure markdown="1">
+![A view of the top, at midway](/assets/images/rajmachi/fort-at-midday.webp)
+<figcaption>A view of the top, at midway</figcaption>
+</figure>
+
+From here, you continue walking until you reach the entry point of Uddhewadi village. 
+
+Do not continue on to the village - if you continue walking you'll reach Karjat. Instead there is a sharp turn to the right, which leads to the temple at the base of the Shrivardhan and Manaranjan forts.
+
+The final climb to the top of the fort is along a narrowish route, and on rock steps - you just need to be careful - else it is not tricky - the footings are solid.
+
+About a 1-1.5 km uphill walk to the top of the fort, where you get a 360 degree view of the Sahyadris that connect the hill towns of Lonavala and Karjat.
+
+You can check out my Suunto file for the route here:
+<iframe src="https://maps.suunto.com/move/milangupta/653e8faf8ef04625f0c3792c" class="suunto-embed" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 ### Difficulty
 
 The trek is longish - there are 10kms of walking along an undulating trail.
-
-The final climb to the top of the fort is along a narrowish route, and on rock steps - you just need to be careful - else it is not tricky - the footings are solid.
 
 <figure markdown="1">
 ![Buffalos bathing in water near Rajmachi trailhead](/assets/images/rajmachi/buffalos-water-rajmachi.webp)
@@ -66,15 +107,7 @@ The final climb to the top of the fort is along a narrowish route, and on rock s
 <figcaption>The very noisy Shirota forest</figcaption>
 </figure>
 
-<figure markdown="1">
-![A view of the top, at midway](/assets/images/rajmachi/fort-at-midday.webp)
-<figcaption>A view of the top, at midway</figcaption>
-</figure>
 
-<figure markdown="1">
-![view of Kaataldhar waterfall](/assets/images/rajmachi/kaataldhar-waterfall.webp)
-<figcaption>A nice view of the route that I had taken - essentially you cross a pass that connects the two ridges</figcaption>
-</figure>
 
 
 ### Going over the day again
@@ -119,6 +152,7 @@ As expected, descending was a little nervy, but I got back before it got dark.
 ![Sunset at Rajmachi fort](/assets/images/rajmachi/sunset-rajmachi.webp)
 <figcaption>Sunset at Rajmachi fort</figcaption>
 </figure>
+
 
 ### The long walk back
 

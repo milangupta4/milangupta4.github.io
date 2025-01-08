@@ -51,4 +51,3 @@ post_id: 30
 Here's my Suunto file for the route.
 
 <iframe src="https://maps.suunto.com/move/milangupta/6774b877512bc4655e78319c" class="suunto-embed" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
