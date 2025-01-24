@@ -27,13 +27,13 @@ Clay's core offering is the platform where you can upload your leads, and enrich
 
 It is trusted by top GTM teams including OpenAI, Anthropic and Canva. They have 10x’d their revenue in 2022 and then again in 2023, and then 6x’d their revenue in 2024.
 
-Basis this superlative performance, they’ve raised a $40mn raise round for their Series B funding.
+Basis this superlative performance, they’ve raised a $40mn raise round for their Series B funding. [[1]](https://www.clay.com/blog/series-b-expansion)
 
 ![Clay integrates multiple types of data enrichment formats](/assets/images/2025/01/clay-data-enrichment/Clay-data-enrichment.webp)
 
 ## The IDE for GTM Engineers
 
-Clay seeks to position themselves as the IDE (Integrated Development Environment) for GTM teams. Or the OS for GTM teams. https://www.clay.com/blog/series-b-expansion
+Clay seeks to position themselves as the IDE (Integrated Development Environment) for GTM teams. Or the OS for GTM teams. 
 
 Today, GTM teams use multiple tools that do not necessarily talk to each other.
 
@@ -150,7 +150,6 @@ Just like with any tool, it’s important to look at the metrics, and to see how
 2. Regularly clean and update data sources, to see which works best for your use case
 3. Once you’ve identified your top data sources, it comes down to identifying the top enrichment workflows
 
-https://lh7-rt.googleusercontent.com/docsz/AD_4nXfqpzSVG-i36ocNl4lrHqLlO4Zu3ls4xdsazs7n5ocPCUHoLyEy711RH-5SU70E3twvKpjGrF8ck-KRzp08TpdmJzK27Y4S15K-ibHpDIjwXtifv8DjNS4VIQ5rkOMzhAgr7XM8bQ?key=WIg6anS14qSEjUK5M0sXcFV0
 
 ### Reviewing top data sources that can be used to enrich your data on Clay
 
