@@ -1,7 +1,7 @@
 ---
 tag: marketing
-title: Marketing
+title: Growth & Marketing
 permalink: "/marketing/"
 ---
 
-I share cases & tactics to drive growth here. 
+These articles cover multiple tools and look at cases of growth.
