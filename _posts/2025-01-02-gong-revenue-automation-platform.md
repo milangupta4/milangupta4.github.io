@@ -48,6 +48,9 @@ Unlike competitors, Gong focuses on proactive insights rather than reactive repo
 ### **Fundraising and Valuation**
 ---
 
+
+![Gong has seen considerable growth on the back of their outstanding product & GTM motion](/assets/images/2024/dec/gong-revops/Gong-fundraising.webp)
+
 Gong has attracted significant investor attention and funding. Key rounds include:
 
 - **Seed Round (2016)**: $6M, led by Norwest Venture Partners.
