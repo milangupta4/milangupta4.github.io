@@ -3,10 +3,10 @@ layout: post
 title:  "Statistics for PMs - Sample Ratio mismatch"
 date:   2024-08-12 12:32:07 +0530
 categories: product
-subtitle: " 
-custom_excerpt: "Sample ratio mismatch happens when specific subgroup is overrepresented in test variant and under-represented in control variant "
-subtitle: "Sample ratio mismatch happens when specific subgroup is overrepresented in test variant and under-represented in control variant "
 post_id: 22
+custom_excerpt: "Sample ratio mismatch happens when specific subgroup is overrepresented in test variant and under-represented in control variant"
+subtitle: "Sample ratio mismatch happens when specific subgroup is overrepresented in test variant and under-represented in control variant"
+
 ---
 
 ### **The Experiment: New Home page design for Trekking website**
