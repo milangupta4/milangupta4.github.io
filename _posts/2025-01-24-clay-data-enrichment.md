@@ -6,7 +6,6 @@ categories: [product, marketing]
 post_id: 34
 custom_excerpt: "Clay enables GTM teams to integrate multiple data sources to create data-rich marketing campaigns"
 subtitle: "Clay enables GTM teams to integrate multiple data sources to create data-rich marketing campaigns"
-featured: true
 ---
 
 Imagine fishing with a blindfold and a broken net. You don't know if you are targeting the right fish.

@@ -3,6 +3,9 @@ layout: post
 title:  "Statistics for PMs - Sample Ratio mismatch"
 date:   2024-08-12 12:32:07 +0530
 categories: product
+subtitle: " 
+custom_excerpt: "Sample ratio mismatch happens when specific subgroup is overrepresented in test variant and under-represented in control variant "
+subtitle: "Sample ratio mismatch happens when specific subgroup is overrepresented in test variant and under-represented in control variant "
 post_id: 22
 ---
 
@@ -94,4 +97,4 @@ So more users in Delhi & Mumbai are seeing Control. And it is because of that fa
 
 ## **Resources:**
 
-[[https://www.news.aakashg.com/p/become-an-ab-testing-expert-advanced](Aakash Gupta’s article on A/B testing)]
+[Aakash Gupta’s article on A/B testing](https://www.news.aakashg.com/p/become-an-ab-testing-expert-advanced)
