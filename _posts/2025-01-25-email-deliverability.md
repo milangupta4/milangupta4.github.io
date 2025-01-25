@@ -3,7 +3,7 @@ layout: post
 title:  "Email marketing concepts - deliverability & spam filters"
 date:   2025-01-12 10:08:07 +0530
 categories: [marketing]
-post_id: 35
+post_id: 36
 custom_excerpt: "Achieve high open rates & clicks by mastering Email deliverability fundamentals"
 subtitle: "Achieve high open rates & clicks by mastering Email deliverability fundamentals"
 ---
