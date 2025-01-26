@@ -9,19 +9,27 @@ subtitle: "We look at the Content Engagement & Cross-platform metrics that Disne
 
 ---
 
-Disney + Hotstar is an OTT application, that streams Disney content exclusively, and in addition has licenses to broadcast a number of sports, including premier league. They have different types of customers amongst their base. Hotstar is looking to drive subscription revenue further, through a mix of acquisition strategies, retention strategies and in addition identify alternative revenue streams (say Ads for non-premium users)
+Disney + Hotstar is an OTT app that streams assorted content to viewers in India.
+
+Hotstar has exclusive access to Disney’s unique IP  - which includes Marvel, Star Wars & Pixar.
+
+In addition, Hotstar has licenses to broadcast a number of sports, predominantly cricket. They held the IPL digital rights until 2022, and still retain rights for a number of fixtures featuring the Indian cricket team.
+
+### Disney + Hotstar is the OTT app with 2nd highest number of Paid Subscribers in India
+
+Historically, Hotstar was the first OTT platform to emerge in India, much before the entry of Netflix or Prime Video.
+
+They have different types of customers amongst their base. Hotstar is looking to drive subscription revenue further, through a mix of acquisition strategies, retention strategies and in addition identify alternative revenue streams (say Ads for non-premium users)
 
 Disney+Hotstar has the 2nd highest number of paid subscriptions in India. Prime Video, which is bundled alongside Amazon Prime delivery service, has a total of 66 million subscribers in India.
 
-Disney + Hotstar has 34 million subscribers
+At about 34 million subscribers, Hotstar slightly edges Netflix’s 28.5 million subscribers in India.
 
-In 3rd Netflix has about 30 million subscribers (Netflix reports subscription stats for APAC at 57 million. Assuming that India’s 500mn strong internet population contributes to 50% of that number. Netflix is considerably more expensive than other competitors such as Hotstar, Prime Video & JioCinema).
+(Netflix reports subscription stats for APAC at 57 million. Assuming that India’s 500mn strong internet population contributes to 50% of that number. Netflix is considerably more expensive than other competitors such as Hotstar, Prime Video & JioCinema, which is a critical factor in the cost-conscious Indian market).
 
 Hotstar also has an ARPU of $1.05 - the contribution here comes from across subscription usage and advertising usage.
 
-Acko has run a sticky insurance campaign around Sports content such as Premier League. Those contents have higher potential for ARPU compared to cricket, which is more suitable for broad-based products.
-
-Note: The goal here is to showcase the metrics that a business like Disney + Hotstar would be considering. The goal here is to merge metrics thinking with Business & Customer contexts.
+Note: This is mainly an exercise the understand the metrics that a business like Disney + Hotstar might be tracking on a regular basis. These metrics represent signals on how users are responding to the platform.
 
 There will be 3 tracks along which we review metrics:
 
@@ -41,7 +49,7 @@ There will be 3 tracks along which we review metrics:
 
 ### Acquisition
 
-1. Customer Acquisition Cost (CAC) tracks marketing effeciency most effectively. 
+1. **Customer Acquisition Cost (CAC)** tracks marketing effeciency most effectively. 
     
     CAC is most effectively used in comparison to Lifetime value (LTV). The minimum LTV to CAC ratio for a consumer business starts at 3:1.
     
@@ -51,7 +59,7 @@ There will be 3 tracks along which we review metrics:
 
 ### Engagement
 
-1. Weekly Active Users (MAU) - This is the one metric that should be at the top of any Consumer PMs mind. MAU is a core health indicator of platform engagement.
+1. **Weekly Active Users (WAU)** - This is the one metric that should be at the top of any Consumer PMs mind. WAU is a core health indicator of platform engagement.
 
 In one number, it captures the overall user acquisition and retention effectiveness
 
@@ -64,13 +72,15 @@ The Disney + Hotstar customer may be spending one day watching Netflix. Another 
 Within the context of multiple choices competing for user's time, a week is a good indicator of user's engagement.
 (Having said that, I would still track DAUs to identify how many Core Users the app has)
     
-1. Advertising Revenue (for non-premium users) - Advertising revenue reflects content partnerships (in-video ad placement) and programmatic ad insertions (marketplace model).
-    
-    User segmentation is critical in advertising revenue, as ad packages are priced on the basis of how attractive customers are to potential advertisers.
-    
-    For example, Cricket on IPL will have fairly low CPMs, as the audience is very diffuse.
-    
-    English premier league, with its English speaking fanbase, would have a higher CPM, reflecting the viewer’s higher affinity to purchase.
+1. **Advertising Revenue (for non-premium users)** -
+
+Advertising revenue reflects content partnerships (in-video ad placement) and programmatic ad insertions (marketplace model).
+
+User segmentation is critical in advertising revenue, as ad packages are priced on the basis of how attractive customers are to potential advertisers.
+
+For example, Cricket on IPL will have fairly low CPMs, as the audience is very diffuse.
+
+On the other hand the (English) Premier League, with its English speaking fanbase, would have a higher CPM, reflecting the viewer’s higher affinity to purchase. To target those customers, Acko Insurance company has run a sticky campaign promoting their insurance products.
     
 
 ### Retention
