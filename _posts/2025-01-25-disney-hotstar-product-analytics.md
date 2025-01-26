@@ -37,7 +37,7 @@ There will be 3 tracks along which we review metrics:
 
 ## Funnel Metrics
 
-We review
+![Acquisition-Onboarding-Engagement-Retention-Monetization User Journey Metrics to track at Disney+Hotstar](/assets/images/2025/01/disney-hotstar-dashboard/Disney-Hotstar-acquisition-dashboard.webp)
 
 ### Acquisition
 
@@ -51,13 +51,20 @@ We review
 
 ### Engagement
 
-1. Monthly Active Users (MAU) - This is the one metric that should be at the top of any Consumer PMs mind. MAU is a core health indicator of platform engagement.
+1. Weekly Active Users (MAU) - This is the one metric that should be at the top of any Consumer PMs mind. MAU is a core health indicator of platform engagement.
+
+In one number, it captures the overall user acquisition and retention effectiveness
+
+It can be segmented by user cohorts (sports fans, movie enthusiasts, family viewers)
+
+The reason why I have selected Weekly Active Users is that a week is the natural frequency for an OTT app. It does not offer the casual entertainment that Social Media such as Instagram provide. It is mostly viewed when customers have the time to watch content.
+
+The Disney + Hotstar customer may be spending one day watching Netflix. Another day they will have Jiocinema on. And for movie night on Saturday, they go back to Disney + Hotstar.
+
+Within the context of multiple choices competing for user's time, a week is a good indicator of user's engagement.
+(Having said that, I would still track DAUs to identify how many Core Users the app has)
     
-    In one number, it captures the overall user acquisition and retention effectiveness
-    
-    It can be segmented by user cohorts (sports fans, movie enthusiasts, family viewers)
-    
-2. Advertising Revenue (for non-premium users) - Advertising revenue reflects content partnerships (in-video ad placement) and programmatic ad insertions (marketplace model).
+1. Advertising Revenue (for non-premium users) - Advertising revenue reflects content partnerships (in-video ad placement) and programmatic ad insertions (marketplace model).
     
     User segmentation is critical in advertising revenue, as ad packages are priced on the basis of how attractive customers are to potential advertisers.
     
