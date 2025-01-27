@@ -8,6 +8,7 @@ post_id: 23
 custom_title: "Customer Journey Analytics - Building a pipeline"
 custom_excerpt: "A Customer journey analytics pipeline can enable you to perform powerful analysis on your own"
 meta_image: "/assets/images/customer-journey-analytics/types-of-customer-journey-data.png"
+feature_image: "/assets/images/customer-journey-analytics/types-of-customer-journey-data.png"
 ---
 
 In this blogpost, we will take a high-level view at creating a first-party Customer Journey Analytics pipeline.

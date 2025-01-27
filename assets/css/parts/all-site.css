@@ -4,6 +4,14 @@ p {
 	line-height: 1.6em;
 }
 
+.page-content {
+	padding-top: 0;
+}
+
+.wrapper {
+	padding-top: 30px;
+}
+
 body {
 	font-family: 'Lato';
 }
@@ -12,11 +20,10 @@ ol, ul {
     padding-left: 0px;
 }
 
-a {
+a, a:visited {
     color: #2a7ae2;
     text-decoration: none;
 }
-
 
 @media screen and (min-width: 800px) {
 	p, li {

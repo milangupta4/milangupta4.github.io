@@ -1,241 +1,70 @@
-<div class="home container">
-    <div class="home-carousel-container">
-        <div class="home-carousel">
-            <div class="home-carousel-item active">
-                <div class="hero-section">
-                    <h1>Building Outstanding Consumer Tech Products</h1>
-                    <img class="home-hero-image" src="/assets/images/home/milan-gupta-approach-to-building.png" alt="Milan Gupta's approach to building outstanding products"> 
-                    <p>To be a top 1% PM, you have to bring unique customer insights, and elevate Design, Tech, Marketing & GTM teams. You have to cut through the jargon to effectively building outstanding customer experiences. </p>
-                    <p>Ongoing customer delight is the fastest way to achieve growth. </p>
-                </div>
-            </div>
-            
-            <!-- Placeholder slides
-            <div class="home-carousel-item">
-                <div class="hero-section">
-                    <h1>Innovation & Technology</h1>
-                    <img class="home-hero-image" src="/assets/images/placeholder-2.jpg" alt="Innovation placeholder"> 
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                </div>
-            </div>
-            
-            <div class="home-carousel-item">
-                <div class="hero-section">
-                    <h1>Customer Success Stories</h1>
-                    <img class="home-hero-image" src="/assets/images/placeholder-3.jpg" alt="Success stories placeholder"> 
-                    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                </div>
-            </div> -->
-        </div>
-        
-        <!-- Navigation arrows -->
-        <!-- <button class="home-carousel-arrow home-carousel-prev" aria-label="Previous slide">&#10094;</button>
-        <button class="home-carousel-arrow home-carousel-next" aria-label="Next slide">&#10095;</button> -->
-        
-        <!-- Indicator dots -->
-        <!-- <div class="home-carousel-indicators">
-            <span class="home-carousel-dot active"></span>
-            <span class="home-carousel-dot"></span>
-            <span class="home-carousel-dot"></span>
-        </div> -->
+<section class="jumbotron-section">
+    <div class="home-page-jumbotron-text">
+        <h1>Growth & Tech strategy</h1>
+        <p>Scale apps & achieve massive customer retention, superpowered by AI</p>
     </div>
-</div>
 
-<!-- <div class="home container"></div>
-	<div class="hero-section">
-		<h1>Building Outstanding Consumer Tech Products</h1>
-		<img class="home-hero-image" src="/assets/images/home/milan-gupta-approach-to-building.png" alt="Milan Gupta's approach to building outstanding products"> 
-		<p>To be a top 1% PM, you have to bring unique customer insights, and elevate Design, Tech, Marketing & GTM teams. You have to cut through the jargon to effectively building outstanding customer experiences. </p>
-		<p>Ongoing customer delight is the fastest way to achieve growth. </p>
-	</div>	
-</div> -->
+    <div class="contact-cards-container">
+        <div class="home-page-cards-container">
+            <!-- Card 1 -->
+            <a href="/blog/crafting-icp-ideal-customer-profile" class="home-page-card">
+                <div class="home-page-icon-placeholder">
+                    <img src="../../assets/images/home/icons/user-jtbd.svg">
+                </div>
+                <div class="home-page-card-content">
+                    <h3>Identify Customers</h3>
+                    <p>ICPs & Core Jobs-to-be-done</p>
+                </div>
+            </a>
 
+            <!-- Card 2 -->
+            <a href="#" class="home-page-card">
+                <div class="home-page-icon-placeholder">
+                    <img src="../../assets/images/home/icons/value-prop.svg">
+                </div>
+                <div class="home-page-card-content">
+                    <h3>Define Value Proposition </h3>
+                    <p>Positioning Strategy</p>
+                </div>
+            </a>
 
+            <!-- Card 3 -->
+            <a href="#" class="home-page-card">
+                <div class="home-page-icon-placeholder">
+                    <img src="../../assets/images/home/icons/messaging.svg">
+                </div>
+                <div class="home-page-card-content">
+                    <h3>Acquisition strategy</h3>
+                    <p>Content loops & Messaging</p>
+                </div>
+            </a>
 
-<!-- <script>
-    document.addEventListener('DOMContentLoaded', () => {
-        const carousel = document.querySelector('.home-carousel');
-        const items = document.querySelectorAll('.home-carousel-item');
-        const dots = document.querySelectorAll('.home-carousel-dot');
-        let currentIndex = 0;
-        let startX = 0;
-        let isDragging = false;
-        let currentTranslate = 0;
-        let prevTranslate = 0;
-        
-        // Auto rotation
-        const autoRotateInterval = 5000;
-        let autoRotateTimer = setInterval(nextSlide, autoRotateInterval);
-    
-        function showSlide(index) {
-            // Update active states
-            items.forEach(item => item.classList.remove('active'));
-            dots.forEach(dot => dot.classList.remove('active'));
-            
-            currentIndex = (index + items.length) % items.length;
-            items[currentIndex].classList.add('active');
-            dots[currentIndex].classList.add('active');
-            
-            // Calculate and apply new position
-            const slideWidth = carousel.offsetWidth;
-            currentTranslate = -currentIndex * slideWidth;
-            prevTranslate = currentTranslate;
-            
-            carousel.style.transition = 'transform 0.5s ease-in-out';
-            carousel.style.transform = `translateX(${currentTranslate}px)`;
-            
-            // Reset timer
-            clearInterval(autoRotateTimer);
-            autoRotateTimer = setInterval(nextSlide, autoRotateInterval);
-        }
-    
-        function nextSlide() {
-            showSlide(currentIndex + 1);
-        }
-    
-        function prevSlide() {
-            showSlide(currentIndex - 1);
-        }
-    
-        // Mouse events for drag
-        carousel.addEventListener('mousedown', (e) => {
-            isDragging = true;
-            startX = e.pageX;
-            carousel.style.cursor = 'grab';
-            carousel.style.transition = 'none';
-        });
-    
-        carousel.addEventListener('mousemove', (e) => {
-            if (!isDragging) return;
-            e.preventDefault();
-            
-            const currentX = e.pageX;
-            const diff = currentX - startX;
-            currentTranslate = prevTranslate + diff;
-            
-            carousel.style.transform = `translateX(${currentTranslate}px)`;
-        });
-    
-        function handleDragEnd() {
-            if (!isDragging) return;
-            
-            isDragging = false;
-            carousel.style.cursor = 'default';
-            carousel.style.transition = 'transform 0.5s ease-in-out';
-            
-            const moveBy = currentTranslate - prevTranslate;
-            
-            if (Math.abs(moveBy) > 100) {
-                if (moveBy > 0) {
-                    prevSlide();
-                } else {
-                    nextSlide();
-                }
-            } else {
-                // Snap back
-                carousel.style.transform = `translateX(${prevTranslate}px)`;
-            }
-        }
-    
-        carousel.addEventListener('mouseup', handleDragEnd);
-        carousel.addEventListener('mouseleave', handleDragEnd);
-    
-        // Touch events
-        carousel.addEventListener('touchstart', (e) => {
-            isDragging = true;
-            startX = e.touches[0].pageX;
-            carousel.style.transition = 'none';
-        });
-    
-        carousel.addEventListener('touchmove', (e) => {
-            if (!isDragging) return;
-            
-            const currentX = e.touches[0].pageX;
-            const diff = currentX - startX;
-            currentTranslate = prevTranslate + diff;
-            
-            carousel.style.transform = `translateX(${currentTranslate}px)`;
-        });
-    
-        carousel.addEventListener('touchend', handleDragEnd);
-    
-        // Keep existing arrow and dot navigation
-        document.querySelector('.home-carousel-next').addEventListener('click', nextSlide);
-        document.querySelector('.home-carousel-prev').addEventListener('click', prevSlide);
-    
-        dots.forEach((dot, index) => {
-            dot.addEventListener('click', () => showSlide(index));
-        });
-    });
-    </script>
-    
-    <style>
-    .home-carousel-container {
-        position: relative;
-        overflow: hidden;
-        width: 100%;
-    }
-    
-    .home-carousel {
-        display: flex;
-        touch-action: pan-y pinch-zoom;
-        cursor: default;
-    }
-    
-    .home-carousel-item {
-        min-width: 100%;
-        flex-shrink: 0;
-        display: block;
-    }
-    
-    /* Keep existing arrow and dot styles unchanged */
-    .home-carousel-arrow {
-        position: absolute;
-        top: 50%;
-        transform: translateY(-50%);
-        background: rgba(255, 255, 255, 0.7);
-        border: none;
-        border-radius: 50%;
-        width: 40px;
-        height: 40px;
-        cursor: pointer;
-        opacity: 0.7;
-        transition: opacity 0.3s;
-    }
-    
-    .home-carousel-arrow:hover {
-        opacity: 1;
-    }
-    
-    .home-carousel-prev {
-        left: 10px;
-    }
-    
-    .home-carousel-next {
-        right: 10px;
-    }
-    
-    .home-carousel-indicators {
-        position: absolute;
-        bottom: 20px;
-        left: 50%;
-        transform: translateX(-50%);
-        display: flex;
-        gap: 8px;
-        background-color: grey;
-        padding: 1vh 1vw;
-        border-radius: 10px;
-    }
-    
-    .home-carousel-dot {
-        width: 10px;
-        height: 10px;
-        border-radius: 50%;
-        background: rgba(255, 255, 255, 0.5);
-        cursor: pointer;
-    }
-    
-    .home-carousel-dot.active {
-        background: white;
-    }
-    </style> -->
+            <!-- Card 4 -->
+            <a href="#" class="home-page-card">
+                <div class="home-page-icon-placeholder">
+                    <img src="../../assets/images/home/icons/user-journey.svg">
+                </div>
+                <div class="home-page-card-content">
+                    <h3>Core User Journey</h3>
+                    <p>Define, Build & Iterate</p>
+                </div>
+            </a>
+
+            <!-- Card 5 -->
+            <a href="/blog/disney-hotstar-product-analytics" class="home-page-card">
+                <div class="home-page-icon-placeholder">
+                    <img src="../../assets/images/home/icons/analytics.svg">
+                </div>
+                <div class="home-page-card-content">
+                    <h3>User analytics</h3>
+                    <p>Effective dashboards & instrumentation </p>
+                </div>
+            </a>
+        </div>
+        <div class="li-button-container">
+            <a href="https://www.linkedin.com/in/milan-gupta4" class="linkedin-connect" target="_blank">
+                Connect on LinkedIn
+            </a>
+        </div>
+    </div>
+</section>
