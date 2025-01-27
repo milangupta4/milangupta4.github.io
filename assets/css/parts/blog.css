@@ -72,10 +72,10 @@ figure img {
 .post-featured-image {
     display: block;
     position: relative;
-    max-width: calc(100% + 16vw); 
-    width: calc(100% + 16vw);
+    max-width: calc(100% + 20vw); 
+    width: calc(100% + 20vw);
     margin-left: -8vw;
-    margin-right: -8vw;
+    margin-right: -12vw;
     height: auto;
     object-fit: cover;
 }

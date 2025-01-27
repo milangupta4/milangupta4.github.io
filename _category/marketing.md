@@ -1,6 +1,6 @@
 ---
 tag: marketing
-title: Growth & Marketing
+title: Tools & Strategies for Growth
 permalink: "/marketing/"
 ---
 

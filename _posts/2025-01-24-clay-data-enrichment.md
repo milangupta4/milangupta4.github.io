@@ -6,6 +6,8 @@ categories: [product, marketing]
 post_id: 34
 custom_excerpt: "Clay enables GTM teams to integrate multiple data sources to create data-rich marketing campaigns"
 subtitle: "Clay enables GTM teams to integrate multiple data sources to create data-rich marketing campaigns"
+featured_image: "/assets/images/2025/01/clay-data-enrichment/Clay-data-enrichment.webp"
+featured_image_alt: "Clay integrates multiple types of data enrichment formats" 
 ---
 
 Imagine fishing with a blindfold and a broken net. You don't know if you are targeting the right fish.
@@ -28,7 +30,6 @@ It is trusted by top GTM teams including OpenAI, Anthropic and Canva. They have 
 
 Basis this superlative performance, they’ve raised a $40mn raise round for their Series B funding. [[1]](https://www.clay.com/blog/series-b-expansion)
 
-![Clay integrates multiple types of data enrichment formats](/assets/images/2025/01/clay-data-enrichment/Clay-data-enrichment.webp)
 
 ## The IDE for GTM Engineers
 
