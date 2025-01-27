@@ -7,8 +7,8 @@ post_id: 35
 custom_excerpt: "We look at the Content Engagement & Cross-platform metrics that Disney+Hotstar team must obsess about"
 subtitle: "We look at the Content Engagement & Cross-platform metrics that Disney+Hotstar team must obsess about"
 meta_image: "/assets/images/2025/01/disney-hotstar-dashboard/Disney-Hotstar-acquisition-dashboard.webp"
-feature_image:  "/assets/images/2025/01/disney-hotstar-dashboard/Disney-Hotstar-acquisition-dashboard.webp"
-feature_image_meta: "Funnel dashboard for Disney + Hotstar OTT app"
+featured_image:  "/assets/images/2025/01/disney-hotstar-dashboard/Disney-Hotstar-acquisition-dashboard.webp"
+featured_image_meta: "Funnel dashboard for Disney + Hotstar OTT app"
 ---
 
 Disney + Hotstar is an OTT app that streams assorted content to viewers in India.

@@ -8,8 +8,8 @@ layout: default
     {% if page.subtitle %}
     <p class="post-subtitle">{{ page.subtitle | escape | markdownify | remove: '<p>' | remove: '</p>' }}</p>
     {% endif %}
-    {% if page.feature_image %}
-      <img src="{{page.feature_image}}" {% if page.feature_image_meta %} alt="{{page.feature_image_meta}}" {% endif %}>
+    {% if page.featured_image %}
+      <img src="{{page.featured_image}}" class="post-featured-image" {% if page.featured_image_meta %} alt="{{page.featured_image_meta}}" {% endif %}>
     {% endif %}
     <p class="post-meta">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

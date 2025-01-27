@@ -7,8 +7,8 @@ post_id: 37
 custom_excerpt: "Take the first step to achieve Product-Market fit by deeply understanding your customer's pain points & Jobs to be done"
 subtitle: "Take the first step to achieve Product-Market fit by deeply understanding your customer's pain points & Jobs to be done"
 meta_image: "/assets/images/2025/01/crafting-icp/ICP-Home-tutoring.webp"
-feature_image: "/assets/images/2025/01/crafting-icp/ICP-Home-tutoring.webp"
-feature_image_meta: "ICP profiling for a Home Tutoring App"
+featured_image: "/assets/images/2025/01/crafting-icp/ICP-Home-tutoring.webp"
+featured_image_meta: "ICP profiling for a Home Tutoring App"
 featured: true
 ---
 

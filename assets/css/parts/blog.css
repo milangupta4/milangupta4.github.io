@@ -15,6 +15,10 @@
 	color: #888;
 }
 
+.post-meta {
+    margin-top: 2vh;
+}
+
 .highlight {
     background-color: rgb(255, 250, 228); 
     margin: 0 calc(-6vh);
@@ -30,12 +34,12 @@
 }
 
 blockquote {
-    background-color: #feeff1; /* Same shade for consistency */
-    border-left: 4px solid #f5c2c7; /* A prominent pink border */
+    background-color: #feeff1; 
+    border-left: 4px solid #f5c2c7;
     padding: 10px 15px;
-    margin: 20px 0; /* Spacing from surrounding content */
-    font-size: 0.95rem; /* Slightly smaller font size for quotations */
-    color: #333; /* Ensures good contrast for readability */
+    margin: 20px 0; 
+    font-size: 0.95rem;
+    color: #333; 
 }
 
 
@@ -62,6 +66,30 @@ figure img {
 	margin: 0 calc(-3vh);
 	padding: 2vh 3vh;
 	border-radius: 16px;
+    
+}
+
+.post-featured-image {
+    display: block;
+    position: relative;
+    max-width: calc(100% + 16vw); 
+    width: calc(100% + 16vw);
+    margin-left: -8vw;
+    margin-right: -8vw;
+    height: auto;
+    object-fit: cover;
+}
+
+@media screen and (max-width: 799px) {
+	.post-footer {
+        margin: 0 0;
+        width: 100%;
+    }
+
+    .post-featured-image {
+        margin: 0 0;
+        width: 100%
+    }
 }
 
 .post-footer ul{
