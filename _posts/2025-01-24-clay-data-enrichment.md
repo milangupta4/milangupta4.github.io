@@ -2,7 +2,7 @@
 layout: post
 title:  "Build a data-powered sales team with Clay as your cornerstone"
 date:   2025-01-24 10:31:07 +0530
-categories: [product, marketing]
+categories: marketing
 post_id: 34
 custom_excerpt: "Clay enables GTM teams to integrate multiple data sources to create data-rich marketing campaigns"
 subtitle: "Clay enables GTM teams to integrate multiple data sources to create data-rich marketing campaigns"
