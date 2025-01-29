@@ -1,0 +1,9 @@
+.list-page-card {
+    padding-bottom: 2vh;
+    padding-top: 3.2vh;
+    border-top: 0.8px solid #6D7102;
+}
+
+li.list-page-card {
+    margin-bottom: 0;
+}
