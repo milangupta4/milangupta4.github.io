@@ -56,6 +56,26 @@ Showcasing Product cards with relevant details and easy actionables becomes more
 ### 4. Enhancements to Search Results
 Ranking algorithms, in addition to promotion of complementary products and suggesting bundle packages. Enhancements in particular has very strong potential for upselling.
 
+## Success Metrics for Search
+
+### Primary Metrics
+
+1. Search-to-Purchase Conversion Rate - This should be the North star. Zepto is a solution decision platform, and not a discovery platform. However, as usage adopts, there might be users who are mainly using to browse for products. In those cases, it becomes important to take those signals as separate. A customer who is using the search 10 times to look for a PS4 is probably fantasizing about the product, rather than facing issues. We can solve for this user behavior by excluding repeat searches of similar query from the same user, for example.
+2. Average Order Value (AOV) from Search
+
+### Secondary Metrics
+
+1. Search Usage Rate - overall health & adoption of feature; a declining search usage rate indicates that users do not trust the Product's search feature
+    - % of sessions with search
+2. Search Refinement Rate - a high number suggests that the Search intelligence is unable to capture the meaning of the user's search query
+    - % of searches modified/refined
+3. Zero Results Rate - Another red flag metric, Zero Results reflects either a failure of search intelligence, or non-existing SKU/ category. Where relevant, this should be treated as a signal for either the Search engineering or the Category teams.
+    - % of searches with no results
+4. Time to Purchase - this metric informs the UI experience - items such as visual design, app latency and information hierarchy determine the time-to-purchase
+    - Duration from search to checkout
+5. Search Abandonment Rate - 
+    - % of searches without subsequent interaction
+
 ## Discovery Opportunities - Recommendation Lists
 
 We can create personalized experiences.
@@ -67,7 +87,7 @@ Zepto has two unique types of data:
 
 With the overall objective to increase purchases, we can leverage both to create Recommendation Lists.
 
-### Recommendation Lists the feature
+### Designing  Recommendation Lists
 
 Create automated lists of most common user purchase journeys.
 
@@ -108,7 +128,7 @@ By running analytics on this, and vetting through customer interviews, a custom 
 3. It starts as a basic canvas, of what the new mother will be needing in the first week of delivery. And if she wants to zoom out and view this over a period of an year, she can look for herself what she’ll need over the next 6 months.
 4. In addition, she can consent to having recommendations show up on her home screen periodically. In a “Your Space” section of the home page.
 
-### Success Metrics
+### Success Metrics for Recommendation Lists feature
 
 1. **Feature adoption** - User has used at least one List/ has gone into 1 List and ordered specific items from that
 2. **Feature visibility** - User has starred at least one list
