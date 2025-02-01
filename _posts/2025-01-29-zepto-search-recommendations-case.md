@@ -10,7 +10,7 @@ featured_image: "/assets/images/2025/01/zepto-case/Search-journey-ecommerce-Zept
 featured_image_alt: "Zepto strives to make the online purchase journey ever more frictionless" 
 ---
 
-Zepto has revolutionized Quick Commerce sector in India. Powered by an outstanding Product, Tech and on-ground logistics operations, Zepto has achieved $3 billion in Annualized Gross Order value.
+Zepto has revolutionized Quick Commerce sector in India. Powered by an outstanding User experience, a Tech with near-zero latency, and superlative On-ground logistics, Zepto has achieved $3 billion in Annualized Gross Order value.
 
 For context on its growth - Zepto hit $1 bn Annualized GOV only 9 months earlier in April 2024.
 
@@ -18,27 +18,34 @@ Zepto is marching towards a target of opening 1000 dark stores across the countr
 
 In addition, Zepto has launched Zepto Cafe - a quick food delivery service - and has achieved 50,000+ daily orders within the first month of launch.
 
-## Value Proposition
+## Zepto's value prop is frictionless shopping
 
 Zepto seeks to make online purchase from their app the default user behavior. 
 
-New users join in largely to order high frequency consumer goods & food items. However, through their catalog and promotions, Zepto seeks to increase ARPU by pushing higher-value products. Selling high-value products makes more sense, as profits are more likely in those categories.
+New users join in largely to order high frequency consumer goods & food items. 
 
-## Importance of Search
+Zepto's goal is to broaden the categories of products that customers purchase via the app.
 
-Search (alongside Recommendations) is one of the most important features in new product discovery for ecommerce apps.
+This is done by leveraging recommendation engine to push broader catalog items, running special promotions during festivals, and continuous promotions. 
 
-The customer seeks to see options that are relevant to what they are looking for. They also need some criteria by which to judge a good product.
+The broad goal is increase ARPU by pushing higher-value products. And Zepto is more likely to achieve profitable margins on high-value products - such as electronics, home decor and apparel.
+
+## Search captures intent
+
+Users get to discover new content on the app via 2 features:
+1. Search
+2. Recommendations
+
+When using Search, the customer seeks to view options that are relevant to what they are looking for. In addition, when they view products, they need some criteria by which to judge a good product.
 
 In that context, pain points related to Search are:
 
-### Search Intelligence ###
+**Search Intelligence**
 - Inaccurate capture of user intent
 - Poor handling of misspellings and variants
 
-### Results Page ###
+**Results Page**
 - Irrelevant or poorly ranked results
-- Even the results
 - Missed opportunities for upselling and cross-selling
 - Limited product discovery
 
@@ -133,5 +140,3 @@ By running analytics on this, and vetting through customer interviews, a custom 
 1. **Feature adoption** - User has used at least one List/ has gone into 1 List and ordered specific items from that
 2. **Feature visibility** - User has starred at least one list
 3. **Overall business** - ARPU for segment that has adopted the feature
-
-![Recommendation Lists](/assets/images/2025/01/zepto-case/recommendation-lists-wireframe.webp)

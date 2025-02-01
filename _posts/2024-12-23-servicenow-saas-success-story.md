@@ -18,8 +18,7 @@ ServiceNow is a shining example of the outstanding success that a SaaS company c
 <figcaption>ServiceNow</figcaption>
 </figure>
 
-### The Story
----
+## The Story
 
 1. **Founded in 2003 by Fred Luddy**. Highly extensible design - initially a swiss army knife software, that can enable teams to build apps on top of their DBs. A primitive low-code no-code platform
 2. **PMF** - designed for IT managers to track service requests. However the architecture allowed the company to solve use-cases for marketing & customer service also. 
@@ -47,8 +46,7 @@ ServiceNow is a shining example of the outstanding success that a SaaS company c
 1. IPO - In 2012. Within a few years of the 
 2. Enterprise SaaS behemoth
 
-### Core Value Prop
----
+## Core Value Prop
 
 Large orgs function via their workflows. A major chunk of the work of Support functions such as IT and HR is in receiving and processing employee requests. A workflow looks like:
 
@@ -61,8 +59,7 @@ This workflow remains as true in 2024 as it did in 2003. The amount of friction,
 
 ServiceNow is the most reliable partner for Fortune 500 enterprises when they seek to streamline their IT & Support functions.
 
-### How is ServiceNow used
----
+## How is ServiceNow used
 
 1. **End Users**
     1.  Employees report IT issues through ServiceNow’s self-service portal
@@ -78,8 +75,7 @@ ServiceNow is the most reliable partner for Fortune 500 enterprises when they se
 
 Let’s take this example from Acme Enterprises:
 
-### **Example Workflow**
----
+## Example Workflow
 
 1. An employee reports a laptop issue via the ServiceNow portal.
 2. Virtual agent dynamically collects additional information using tailored questions
@@ -90,20 +86,18 @@ Let’s take this example from Acme Enterprises:
 
 This structured approach ensures faster resolution times, improved user experience, and enhanced operational efficiency for Acme Enterprises.
 
-### The Product
----
+## The Product
 
 It is built on top of Now Platform.
 
-### ServiceNow is leading with AI Initiatives
+## ServiceNow is leading with AI Initiatives
 
 
 Now Assist
 
 RaptorDB
 
-### Revenues breakdown by workflows
----
+## Revenues breakdown by workflows
 
 On track to achieve $10.66 bn in revenue in 2024. Targeting an Operating income of $3.14 bn. (non-GAAP operating margin is 29.5%). 
 
@@ -111,8 +105,7 @@ As of December ‘24, ServiceNow’s Market cap stands at a robust $230 billion.
 
 The company also reports current remaining performance obligation - revenue deferred for future services + contractually obligated revenue - for the next 12 months. cRPO grew from $7.43bn to $9.36bn YoY from FY23 to FY24.
 
-### Revenue Growth continues on the back of strong Enterprise GTM & Product Innovations
----
+## Revenue Growth continues on the back of strong Enterprise GTM & Product Innovations
 
 With revenue growth at 23% and Operating income at 29%, ServiceNow’s Rule of 50 metric is 52% - this is a company executing at an elite level.
 
@@ -130,8 +123,7 @@ In Q3 results:
 > With Now Assist we have 44 customers spending more than $1 million in ACV, including six over $5 million and two over $10 million, and this continues to be our fastest-growing product ever and an accelerant to our cross-enterprise expansion. - Bill McDermott
 > 
 
-### Pricing & Revenue breakdown by Workflows
----
+## Pricing & Revenue breakdown by Workflows
 
 IT Service & Operations Management - 53% of revenue
 
@@ -149,8 +141,7 @@ Creator workflow - 17% of revenue
 - Automation Engine
 - Vault
 
-### Customer Service Management
----
+## Customer Service Management
 
 “Get your Incidents, Problem Tickets and Change Management streamlined”
 
@@ -162,15 +153,13 @@ https://www.g2.com/products/servicenow-servicenow-now-platform/reviews/serviceno
 
 1. Difficult to understand and build for newbie users - strong Partner ecosystem
 
-### Links
----
+## Links
 
 1. [Outperforming the Market substack highlighting ServiceNow’s robust model](https://outperformingthemarket.substack.com/p/servicenow-high-quality-software)
 2. [Q3 analysis via investing.com](https://www.investing.com/news/stock-market-news/earnings-call-servicenow-reports-robust-q3-growth-raises-2024-outlook-93CH-3680440)
 3. G2 Reviews: 
-    1. https://www.servicenow.com/lpebk/hl-g2-reviews-app-engine.html
-    2. https://www.g2.com/products/servicenow-it-service-management/reviews
-    3. https://www.g2.com/products/servicenow-customer-service-management/reviews
-    4. https://www.g2.com/products/servicenow-servicenow-now-platform/reviews
-4. Perplexity research - https://www.perplexity.ai/search/i-am-researching-servicenow-bu-hVObDtW1R..1xKtcOgKkfQ
-5. [Sequoia Podcast on ServiceNow](https://www.sequoiacap.com/podcast/crucible-moments-servicenow/)
+    1. [1](https://www.servicenow.com/lpebk/hl-g2-reviews-app-engine.html)
+    2. [2](https://www.g2.com/products/servicenow-it-service-management/reviews)
+    3. [3]https://www.g2.com/products/servicenow-customer-service-management/reviews)
+    4. [4]https://www.g2.com/products/servicenow-servicenow-now-platform/reviews)
+4. [Sequoia Podcast on ServiceNow](https://www.sequoiacap.com/podcast/crucible-moments-servicenow/)

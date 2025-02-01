@@ -1,11 +1,18 @@
 @media screen and (min-width: 800px) {
 	.wrapper {
-		max-width: 800px;
+		max-width: 880px;
 	}
 }
 
-.post-content h1, .post-content h2, .post-content h3 {
-	margin-top: 15px;
+.post-content h1, .post-content h3 {
+	margin-top: 45px;
+}
+
+.post-content h2 {
+    padding-top: 32px;
+    margin-top: 20px;
+    border-top: 0.8px solid #6D7102;
+    padding-bottom: 12px;
 }
 
 .post-subtitle{
@@ -69,7 +76,7 @@ figure img {
     
 }
 
-.post-featured-image {
+.post-featured-image, .post-expanded-block {
     display: block;
     position: relative;
     max-width: calc(100% + 20vw); 
@@ -86,7 +93,7 @@ figure img {
         width: 100%;
     }
 
-    .post-featured-image {
+    .post-featured-image, .post-expanded-block {
         margin: 0 0;
         width: 100%
     }

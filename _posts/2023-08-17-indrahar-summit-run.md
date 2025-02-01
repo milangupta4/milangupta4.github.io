@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Indrahar Summit Run"
+title:  "My Indrahar Summit Run experience"
 date:   2023-08-17 12:32:07 +0530
 categories: kipchoge
-subtitle: "Epic trail run on Triund-Snowline-Indrahar trail near McLeodganj"
-custom_excerpt: "Epic trail run on Triund-Snowline-Indrahar trail near McLeodganj"
+subtitle: "Boots & Crampons organizes this epic trail run on Triund-Snowline-Indrahar trail near McLeodganj"
+custom_excerpt: "Boots & Crampons organizes this epic trail run on Triund-Snowline-Indrahar trail near McLeodganj"
 post_id: 19
 featured: true
 ---

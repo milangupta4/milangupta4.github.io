@@ -29,7 +29,7 @@ Gives Manchester Commercial teams a flagbearer around which to build their Comme
 And given how Haaland is continuing to live to his Elite standards, the deal makes superb sense.
 
 
-<div class="post-featured-image">
+<div class="post-featured-image post-expanded-block">
     <iframe 
         src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQx9m9UxIGKfp510G8CXd_gEv4eawZNl3z1NgMmbsZ-s5xuoUcSXeTQUyMTHBdTKb0E3BMyUIy7GUfy/pubhtml?widget=true&amp;headers=false" 
         frameborder="0"

@@ -10,7 +10,7 @@ post_id: 31
 
 Okhla Bird sanctuary is an under-rated escape from the city. It is one of the very few spots in Delhi where the natural beauty around Yamuna river is accessible to the general public.
 
-### NCR has its own Marine drive
+## NCR has its own Marine drive
 
 Well, not quite. 
 
@@ -31,7 +31,7 @@ The 2.5km walking track continuously gives changing views of the Yamuna river, r
 </figure>
 
 
-### How to reach?
+## How to reach?
 
 There are 2 gates, one at each end of the road along the Yamuna river barrage. 
 
@@ -45,7 +45,7 @@ The Map below is the most accurate listing of the gate.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.871219352645!2d77.30470861032246!3d28.573629569818127!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce5b4f3e2c8a3%3A0x21f116eba94fd551!2sWatch%20tower%20entry%20bird%20sanctuary!5e0!3m2!1sen!2sin!4v1735918637094!5m2!1sen!2sin" class="google-map-embed" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-### Key details about the park
+## Key details about the park
 
 Okhla Bird sanctuary is open around the year. It is closed on Mondays. The timings of the park at 7am - 5pm, and at the entry you are charged Rs. 30 for entry.
 
@@ -55,12 +55,7 @@ The Bird Sanctuary itself is a 2.5km walk along the Yamuna river barrage, of whi
 
 An e-rickshaw service also operates inside the park premises, transporting visitors from one end of the park to the other end for a fees.
 
-
-
-
-
-
-### The History
+## The History
 
 This was a general-access road till the late 90s. For travel from Noida to Faridabad, and from there southwards towards Agra, this was the most accessible road. 
 
@@ -68,7 +63,7 @@ Around the end of 90s, this was converted into a gated preserve, even as other i
 
 The lake is actually the reservoir from the barrage downstream at Okhla barrage. If you're unlucky, they may open the barrage to release water, and you'll be left with a muddy / non-existent lake.
 
-### Conservation & birds status
+## Conservation & birds status
 
 Wildlife - Nilgai
 
@@ -94,7 +89,7 @@ You’ll find a lot of cows and buffaloes around also, making their way to grazi
 <figcaption>Lambs at Okhla Bird Sanctuary</figcaption>
 </figure>
 
-### Gallery
+## Gallery
 
 <figure markdown="1">
 ![South Delhi in the distance, from Okhla Bird Sanctuary in Noida](/assets/images/2024/11/okhla-bird-sanctuary/01a-south-delhi-at-a-distance-from-okhla-bird-sanctuary.webp)
