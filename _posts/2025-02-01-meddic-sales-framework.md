@@ -8,7 +8,6 @@ custom_excerpt: "MEDDIC framework enables Sales leaders to frame buyer's pain po
 subtitle: "MEDDIC framework enables Sales leaders to frame buyer's pain points, KPIs & buying committees"
 featured_image: "/assets/images/2025/02/meddic/MEDDIC-scorecard.webp"
 featured_alt_text: "MEDDIC framework enables a simple quantification of how a prospects buying journey looks like"
-
 ---
 For companies that rely on complex Sales motions in B2B, a systematic approach to understanding their ICP is critical. 
 
