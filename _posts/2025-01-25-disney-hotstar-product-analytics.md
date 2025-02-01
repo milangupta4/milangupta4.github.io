@@ -17,15 +17,21 @@ Hotstar's biggest pull in India is their licenses to broadcast cricket. Hotstar 
 
 In general entertainment, Hotstar has exclusive access to Disney’s unique IP  - which includes Marvel, Star Wars & Pixar. The platform also broadcasts sister brand Star's soap TV shows on their platform.
 
+In November 2024, Disney-Star India & Viacom18 (owner of Jiocinema & Colors entertainment brands) agreed to merge operations. This merger gives Hotstar access to Reliance's distribution muscle.
+
 ## Disney + Hotstar has 2nd highest number of Paid Subscribers among OTT apps in India
 
 Hotstar was the first OTT platform to emerge in India, launching in 2015. Hotstar was launched shortly before the 2015 Cricket World Cup, and IPL, for both of which they had acquired digital rights.
 
-Disney+Hotstar has the 2nd highest number of paid subscriptions in India. Prime Video, which is bundled alongside Amazon Prime delivery service, has a total of 66 million subscribers in India.
+Disney+Hotstar has the 2nd highest number of paid subscriptions in India. Prime Video, which is bundled alongside Amazon Prime delivery service, has a total of 34.2 million subscribers in India.
 
-At about 34 million subscribers, Hotstar slightly edges Netflix’s 28.5 million subscribers in India.
+At 33.8 million subscribers, Hotstar edges past Netflix’s 32.3 million subscribers in India.
 
 (Netflix reports subscription stats for APAC at 57 million. Assuming that India’s 500mn strong internet population contributes to 50% of that number. Netflix is considerably more expensive than other competitors such as Hotstar, Prime Video & JioCinema, which is a critical factor in the cost-conscious Indian market).
+
+<div class="post-expanded-block" markdown="1">
+![alt text](/assets/images/2025/01/disney-hotstar-dashboard/OTT-apps-comparison.webp)
+</div>
 
 Hotstar also has an ARPU of $1.05 - the contribution here comes from across subscription usage and advertising usage.
 

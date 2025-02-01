@@ -9,9 +9,9 @@ post_id: 26
 
 Salesforce does revenues of $40 billion annually. 
 
-Inspite of (or perhaps because of) adoption across S&P500, it continues to be *the CRM* used by enterprises. 
+ Being the primary CRM adopted S&P500, Salesforce continues to be *the CRM* used by enterprises. 
 
-### Inbound marketing takes off with Google and Social Media
+## Inbound marketing takes off with Google and Social Media
 
 Hubspot calls itself the *customer platform for scaling companies.* 
 
@@ -25,7 +25,7 @@ First, Marketing.
 
  It was built in the 2000s, with the core insight that the sales process in the internet age is not just around outbound, but is about the customer finding you through inbound channels.
 
-### The AI-driven future of CRM
+## The AI-driven future of CRM
 
 Attio raised a round of $33 million. It comes amidst a major paradigm shift - there are ever increasing channels by which your business is acquiring customers. They are doing very different things on your website and in your application. 
 
@@ -37,7 +37,7 @@ A marketing team would be taking a week to plan this campaign. With an agentic A
 
 AI is now able to understand multimodal inputs - what the user is saying on calls. What they are saying in an email. 
 
-### Back to the basics - Contact (read Customer) is the Fundamental Unit of the CRM
+## Back to the basics - Contact (read Customer) is the Fundamental Unit of the CRM
 
 It’s kind of intuitive, right?
 
@@ -64,21 +64,19 @@ References:
 
 https://attio.com/blog/attio-raises-33-million-in-funding
 
-### **Hubspot analysis**
+## **Hubspot analysis**
 
-1. Series B announcement: https://www.hubspot.com/blog/bid/4150/hubspot-raises-12-million-for-saas-internet-marketing-software
-2. Series C announcement: https://www.hubspot.com/blog/bid/5176/hubspot-closes-16-million-series-c-financing
-3. Series D announcement: https://www.hubspot.com/blog/bid/10491/sequoia-google-ventures-and-salesforce-com-invest-32-million-in-hubspot
+1. [Series B announcement](https://www.hubspot.com/blog/bid/4150/hubspot-raises-12-million-for-saas-internet-marketing-software)
+2. [Series C announcement](https://www.hubspot.com/blog/bid/5176/hubspot-closes-16-million-series-c-financing)
+3. [Series D announcement](https://www.hubspot.com/blog/bid/10491/sequoia-google-ventures-and-salesforce-com-invest-32-million-in-hubspot)
 4. Quarterly results: 
-    1. Q2 2024 results: https://ir.hubspot.com/news-releases/news-release-details/hubspot-reports-q2-2024-results
-    2. Q3 2024 results: https://ir.hubspot.com/news-releases/news-release-details/hubspot-reports-q3-2024-results
-
-[Hubspot international expansion](https://www.notion.so/Hubspot-international-expansion-15374767a5e680f0a457d4961a0b507b?pvs=21)
+    1. [Q2 2024 results](https://ir.hubspot.com/news-releases/news-release-details/hubspot-reports-q2-2024-results) 
+    2. [Q3 2024 results](https://ir.hubspot.com/news-releases/news-release-details/hubspot-reports-q3-2024-results) 
 
 ### Salesforce analysis
 
-Q3 2024 results: https://investor.salesforce.com/press-releases/press-release-details/2024/Salesforce-Announces-Third-Quarter-Fiscal-2025-Results/default.aspx
+[Q3 2024 results](https://investor.salesforce.com/press-releases/press-release-details/2024/Salesforce-Announces-Third-Quarter-Fiscal-2025-Results/default.aspx)
 
 ### Attios Funding announcement
 
-https://attio.com/blog/attio-raises-33-million-in-funding
+[Attio raises $33 million in funding](https://attio.com/blog/attio-raises-33-million-in-funding)
