@@ -8,6 +8,11 @@
 	margin-top: 45px;
 }
 
+.post-content h3 {
+	margin-top: 32px;
+    margin-bottom: 16px;
+}
+
 .post-content h2 {
     padding-top: 32px;
     margin-top: 20px;

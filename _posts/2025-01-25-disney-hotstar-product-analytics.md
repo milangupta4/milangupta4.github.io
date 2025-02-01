@@ -11,17 +11,15 @@ featured_image:  "/assets/images/2025/01/disney-hotstar-dashboard/Disney-Hotstar
 featured_image_alt: "Funnel dashboard for Disney + Hotstar OTT app"
 ---
 
-Disney + Hotstar is an OTT app that streams assorted content to viewers in India.
+Disney + Hotstar is an OTT app that streams assorted entertainment content to viewers across India and Southeast Asia.
 
-Hotstar has exclusive access to Disney’s unique IP  - which includes Marvel, Star Wars & Pixar.
+Hotstar's biggest pull in India is their licenses to broadcast cricket. Hotstar holds exclusive broadcast rights to ICC tournament, including the World Cup and Champions Trophy. In addition, Hotstar holds the rights to BCCI matches - all Indian cricket team fixtures, both domestic & international.
 
-In addition, Hotstar has licenses to broadcast a number of sports, predominantly cricket. They held the IPL digital rights until 2022, and still retain rights for a number of fixtures featuring the Indian cricket team.
+In general entertainment, Hotstar has exclusive access to Disney’s unique IP  - which includes Marvel, Star Wars & Pixar. The platform also broadcasts sister brand Star's soap TV shows on their platform.
 
-### Disney + Hotstar is the OTT app with 2nd highest number of Paid Subscribers in India
+## Disney + Hotstar has 2nd highest number of Paid Subscribers among OTT apps in India
 
-Historically, Hotstar was the first OTT platform to emerge in India, much before the entry of Netflix or Prime Video.
-
-They have different types of customers amongst their base. Hotstar is looking to drive subscription revenue further, through a mix of acquisition strategies, retention strategies and in addition identify alternative revenue streams (say Ads for non-premium users)
+Hotstar was the first OTT platform to emerge in India, launching in 2015. Hotstar was launched shortly before the 2015 Cricket World Cup, and IPL, for both of which they had acquired digital rights.
 
 Disney+Hotstar has the 2nd highest number of paid subscriptions in India. Prime Video, which is bundled alongside Amazon Prime delivery service, has a total of 66 million subscribers in India.
 
@@ -31,7 +29,9 @@ At about 34 million subscribers, Hotstar slightly edges Netflix’s 28.5 million
 
 Hotstar also has an ARPU of $1.05 - the contribution here comes from across subscription usage and advertising usage.
 
-Note: This is mainly an exercise the understand the metrics that a business like Disney + Hotstar might be tracking on a regular basis. These metrics represent signals on how users are responding to the platform.
+They have different types of customers amongst their base. Hotstar is looking to drive subscription revenue further, through a mix of acquisition strategies, retention strategies and in addition identify alternative revenue streams (say Ads for non-premium users)
+
+
 
 There will be 3 tracks along which we review metrics:
 
@@ -137,6 +137,10 @@ These metrics will help understand content investment strategy. Understanding wh
     - Session frequency and duration by platform
     - Helps optimize user experience and platform development
     - Guides technology investment decisions
+
+<div class="highlight" markdown="1">
+Note: This case study is an exercise in understanding the metrics that a business like Disney + Hotstar would be tracking on a regular basis, and does not reflect actual adoption.
+</div>
 
 ### References
 

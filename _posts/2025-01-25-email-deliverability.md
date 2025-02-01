@@ -32,7 +32,7 @@ Here we go through step-by-step what inboxes such as Gmail do when they receive 
 Consider that admin@milangupta.io is sending an email to milan.gupta.noreply@gmail.com.
 What are the things that Gmail will be doing to verify if the email is correct.
 
-### 1. Sender authentication checks - Sender policy framework (SPF)
+### Sender authentication checks - Sender policy framework (SPF)
 
 Here, the recipient inbox verifies the DNS of the sender DNS records. 
 
@@ -42,12 +42,12 @@ Now, when recipient inbox receives the email from info@milangupta.io, it does 2 
 Looks up the sender - if the sender is gmail.com, then it will see the SPF policy for if gmail is included
 Authenticates that the email has come from the legitimate SMTP server 
 
-### 2. DKIM check
+### DKIM check
 DKIM (DomainKeys Identified Mail) leverages public-private key cryptography logic. The SMTP server does the following:
    1. Encrypt email header with a private key
    2. In the SMTP DNS config, share the public key
 Recipient inbox tries to decrypt the email header with the public key. If successful, it validates that the right SMTP server in fact sent the email. 
 Without this, a fake SMTP server can give the signature of the genuine SMTP server.
 
-### 3. DMARC (Domain-based Message Authentication, Reporting, and Conformance)
+### DMARC (Domain-based Message Authentication, Reporting, and Conformance)
 How to handle different cases, such as authentication successful and failing. It suggests whether to allow, quarantine or reject an email in this scenario.
