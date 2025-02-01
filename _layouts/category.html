@@ -9,6 +9,7 @@ layout: default
     {{ content }}
     
     <ul class="post-list">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {% for post in site.categories[page.tag] %}
       <li class="list-page-card">
         <h3>
@@ -19,6 +20,7 @@ layout: default
         {% if post.custom_excerpt%}
           <p>{{ post.custom_excerpt }}</p>
         {% endif %}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
       </li>
       {%- endfor -%}
     </ul>
