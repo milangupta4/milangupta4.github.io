@@ -133,8 +133,9 @@ By bringing in Revenue & Profitability in the same equation, the metric captures
 
 Sales Pipeline  - Leads, MQLs, SQLs, Customers
 
-Deal pipeline
-
+<div class="post-expanded-block" markdown="1">
+![Inbound marketing pipeline](/assets/images/2024/dec/b2b-saas-metrics/B2B-Funnel-Inbound.webp)
+</div>
 ## The Bottom Line
 
 Understanding these metrics isn't just about tracking numbers—it's about building a sustainable SaaS business. The most successful companies maintain a delicate balance between growth and efficiency, using these metrics as their compass rather than their destination.

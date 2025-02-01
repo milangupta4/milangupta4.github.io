@@ -10,15 +10,30 @@ featured_image: "/assets/images/2025/01/clay-data-enrichment/Clay-data-enrichmen
 featured_image_alt: "Clay integrates multiple types of data enrichment formats" 
 ---
 
-Imagine fishing with a blindfold and a broken net. You don't know if you are targeting the right fish.
+Imagine fishing with a blindfold and a broken net. 
 
-And even if you have hit upon the right fish, there is no guarantee it will be caught in the net.
+The fish that you are targeting are literally slipping through your nets. And the blindfold prevents you from knowing which fish you're getting. Or if indeed it is a fish, and not a pile of discarded shoes.
 
-I want to highlight the importance of data enrichment for Sales & Marketing teams with this rather crude metaphor.
+If you are not doing quality data enrichment of your leads & prospects, you are leaving your sales team in a similar predicament.
 
-In the context of marketing, each unverified contact is a missed connection. Each outdated email is a revenue roadblock.
+Each unverified contact is a missed connection. Each email sent to an outdated address is blocking you from adding a prospect to your pipeline.
 
 Precision means having the data about the ICP that will most help you to converting them.
+
+## Data Enrichment & quality are make-or-break for Outbound GTM
+
+Let's imagine we are selling to Acme Corporation, a Fortune 500 business.
+
+Our de-anonymization tool told us that prospects from Acme Corp have visited our website. We reach out to the executives, and initiate a conversation.
+
+We do 2 discovery calls, and see that our solution adds enormous value to the Acme Corp. And we have a healthy ongoing discussion over finer details of integrations & adoption.
+
+We are mostly positive because it seems a very active conversation.
+
+But then, we go to our [Revenue intelligence platform](/blog/gong-revenue-automation-platform). But the platform is flagging a whole lot of concerns.
+
+1. The prospect has never opened their video in our calls --> low commitment.
+2. The prospect we are talking to is not part of the buying committee - they do not have the necessary influence on the decision process, nor do they seem sufficiently engaged to be a champion.
 
 ## Clay powers precision-guided GTM strategies
 

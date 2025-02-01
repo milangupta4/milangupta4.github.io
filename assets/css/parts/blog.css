@@ -1,6 +1,6 @@
 @media screen and (min-width: 800px) {
 	.wrapper {
-		max-width: 880px;
+		max-width: 800px;
 	}
 }
 
@@ -192,4 +192,10 @@ figure img {
     width: 100%;
     height: 60vh;
     border: none;
+}
+
+.post-content li{
+    padding-left: 12px;
+    margin-left: -10px;
+    padding-bottom: 10px;
 }
