@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "T2D3: The Growth Gold-Standard for SaaS Businesses"
-date:   2025-02-06 09:31:07 +0530
+date:   2025-02-05 09:31:07 +0530
+published_date: 2025-02-06 09:31:07 +0530
 categories: marketing
 post_id: 44
 custom_excerpt: "T2D3 growth model suggests a playbook for SaaS businesses to grow their business by 72x over 5 years"
