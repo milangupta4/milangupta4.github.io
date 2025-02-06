@@ -6,7 +6,7 @@ categories: product
 post_id: 41
 custom_excerpt: "Zepto is blitzscaling Quick Commerce across India with their 10min delivery value proposition"
 subtitle: "Zepto is blitzscaling Quick Commerce across India with their 10min delivery value proposition"
-featured_image: "/assets/images/2025/01/zepto-case/Search-journey-ecommerce-Zepto.webp"
+featured_image: "/assets/images/2025/01/zepto-case/Zepto-search-to-checkout-northstar.webp"
 featured_image_alt: "Zepto strives to make the online purchase journey ever more frictionless" 
 ---
 
@@ -29,6 +29,8 @@ Zepto's goal is to broaden the categories of products that customers purchase vi
 This is done by leveraging recommendation engine to push broader catalog items, running special promotions during festivals, and continuous promotions. 
 
 The broad goal is increase ARPU by pushing higher-value products. And Zepto is more likely to achieve profitable margins on high-value products - such as electronics, home decor and apparel.
+
+![Search journey - ecommerce - Zepto](/assets/images/2025/01/zepto-case/Search-journey-ecommerce-Zepto.webp)
 
 ## Search captures intent
 
@@ -134,6 +136,8 @@ By running analytics on this, and vetting through customer interviews, a custom 
 2. She discovers “Recommendation Lists”, tailored for women with babies
 3. It starts as a basic canvas, of what the new mother will be needing in the first week of delivery. And if she wants to zoom out and view this over a period of an year, she can look for herself what she’ll need over the next 6 months.
 4. In addition, she can consent to having recommendations show up on her home screen periodically. In a “Your Space” section of the home page.
+
+![Recommendation Lists - Zepto](/assets/images/2025/01/zepto-case/recommendation-lists-wireframe.webp)
 
 ### Success Metrics for Recommendation Lists feature
 
