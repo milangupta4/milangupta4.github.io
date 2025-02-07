@@ -13,9 +13,13 @@ LLMs Meet APIs.
 
 That's my understanding of what an AI Agent is.
 
-So, why an agent.
+So, why can't a single LLM do everything? Why doesn't ChatGPT come in and destroy the entire SaaS landscape?
 
-One of the fundamental principles of prompt engineering is that chained prompts are more powerful than a single prompt.
+One of the fundamental principles of prompt engineering is that chained prompts are more powerful than a single prompt. 
+
+And, a lot of those specific jobs needs to be on specific data. 
+
+For example a Cloud incident detection platform will be combing through specific logs on Cloud services such as AWS, Azure or GCP ChatGPT is not specificallydesigned for reading logs
 
 With Agentic workflows, you can create workflows by leveraging distinct GPTs.
 
