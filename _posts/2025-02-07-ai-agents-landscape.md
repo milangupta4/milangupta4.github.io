@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "How the AI Agents landscape is looking, in February 2025"
-date:   2025-02-01 11:32:01 +0530
-published_date:   2025-02-07 11:32:01 +0530
+date:   2025-02-18 11:32:01 +0530
+published_date:   2025-02-18 11:32:01 +0530
 categories: product
 post_id: 46
 custom_excerpt: "A look at the AI Agents landscape in February 2025"

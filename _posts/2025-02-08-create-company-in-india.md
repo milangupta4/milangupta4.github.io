@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "How to register an LLP in India"
-date:   2025-02-14 11:32:01 +0530
-published_date:   2025-02-08 11:32:01 +0530
+date:   2025-02-19 11:32:01 +0530
+published_date:   2025-02-19 11:32:01 +0530
 categories: taxation-legal
 post_id: 48
 custom_excerpt: "We cover the steps needed to register an LLP in India, and the ongoing compliance work around it."
