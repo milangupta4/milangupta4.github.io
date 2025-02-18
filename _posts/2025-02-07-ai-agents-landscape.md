@@ -34,3 +34,95 @@ Langchain is the most popular orchestration framework.
 ## LLMs
 
 Deepseek, Anthropic, Google, and OpenAI are the most popular LLMs.
+
+The AI agent landscape in 2025 represents a dynamic fusion of advanced language models, adaptive training techniques, and transformative real-world applications. Below, we explore three critical pillars shaping this ecosystem.
+
+## 1. Leading LLMs Powering Modern AI Agents
+The market features a diverse array of large language models, each optimized for specific tasks:
+
+| Model | Developer | Parameters | Key Features |
+|-------|-----------|------------|--------------|
+| DeepSeek R1 | DeepSeek | 671B | Top-tier reasoning for math/coding, open-source, cost-effective training |
+| GPT-4o | OpenAI | Unknown | Multimodal (text/image/voice), 2x faster than GPT-4, Voice-to-Voice latency <320ms |
+| Claude 3.5 | Anthropic | Unknown | 200K token context window, superior coding/vision capabilities |
+| Llama 3.1 |   Meta | 405B | Open-source, 15T token training, 128K context |
+| Qwen2.5-Max | Alibaba | Undisclosed | Low-latency performance, excels in code generation and forecasting |
+| Grok-2 | xAI | 314B | Open-source, integrated with X (Twitter), MoE architecture |
+
+
+## 2. Building Private GPTs: RAG vs. Fine-Tuning
+Retrieval-Augmented Generation (RAG)
+How it works: Dynamically retrieves data from external sources (databases, APIs) during inference.
+
+Pros:
+
+Cost-effective updates (no retraining)15
+
+Reduces hallucinations via real-time grounding14
+
+Ideal for compliance-heavy sectors (e.g., healthcare, legal)14
+
+Cons:
+
+Slower latency due to retrieval steps5
+
+Requires robust vector database management4
+
+Fine-Tuning
+How it works: Retrains base models (e.g., GPT-4) on domain-specific datasets.
+
+Pros:
+
+Higher accuracy for niche tasks (e.g., legal jargon)12
+
+Faster inference after initial training14
+
+Preserves data privacy (no external queries)11
+
+Cons:
+
+Expensive GPU/TPU requirements5
+
+Risk of overfitting to training data3
+
+Decision Matrix:
+
+Scenario	Recommended Approach
+Dynamic data (e.g., news)	RAG4
+Specialized terminology	Fine-Tuning12
+High query volume	Hybrid (RAG + FT)4
+
+## 3. Transformative Use Cases for AI Agents
+
+### Customer Experience
+
+Sales: AI agents like Find AI automate lead generation with 98% precision7.
+
+Support: Chatbase reduces ticket volumes by 65% via refund automation and troubleshooting7.
+
+### Healthcare
+
+Diagnostics: Google’s AI agent detects skin cancer with 85.4% sensitivity7.
+
+Surgery: Robotic systems assist in precision procedures7.
+
+### Autonomous Systems
+Vehicles: Waymo’s self-driving cars use utility-based agents for real-time decisions7.
+
+Manufacturing: LG’s EXAONE 3.0 generates Python code for assembly line optimizations8.
+
+### Marketing & Insights
+Personalization: Cisco’s AI agents analyze 140K-token customer journeys for hyper-targeted campaigns6.
+
+Competitor Analysis: Talkdesk agents track churn drivers and emerging market trends6.
+
+## Agentic Workflows, Sustainability - in terms of compute costs & Regulatory compliance are set to be the themes for 2025
+The AI agent ecosystem will see three key shifts in 2025:
+
+**Agentic Workflows:** Tools like Copilot Studio will let non-technical teams build custom agents.
+
+**Sustainability:** Microsoft’s green AI initiatives aim for carbon-negative data centers.
+
+**Regulatory Alignment:** RAG’s traceable sourcing will dominate GDPR/CCPA-compliant deployments.
+
+From open-source giants like Llama 3.1 to enterprise-grade RAG pipelines, AI agents are no longer experimental—they’re redefining industries through scalable intelligence.

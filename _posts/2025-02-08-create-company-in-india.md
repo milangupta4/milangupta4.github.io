@@ -59,7 +59,7 @@ After incorporation, ensure you:
 
 Maintain proper financial records and file annual returns with the RoC.
 
-Additionally, if your LLP’s turnover exceeds ₹40 lakh or its capital contribution exceeds ₹25 lakh, it must undergo an audit by a Chartered Accountant1318.
+Additionally, if your LLP’s turnover exceeds ₹40 lakh or its capital contribution exceeds ₹25 lakh, it must undergo an audit by a Chartered Accountant.
 
 ### Key Requirements
 
@@ -67,6 +67,6 @@ A minimum of two partners is required; at least one must be an Indian resident.
 
 There is no minimum capital requirement.
 
-The entire process typically takes 15–20 working days and costs between ₹5,000–₹12,000 depending on professional fees and government charges14.
+The entire process typically takes 15–20 working days and costs between ₹5,000–₹12,000 depending on professional fees and government charges.
 
 By following these steps meticulously, entrepreneurs can establish an LLP efficiently while enjoying its benefits like limited liability protection and operational flexibility.

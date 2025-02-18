@@ -45,6 +45,7 @@ It is trusted by top GTM teams including OpenAI, Anthropic and Canva. They have 
 
 Basis this superlative performance, they’ve raised a $40mn raise round for their Series B funding. [[1]](https://www.clay.com/blog/series-b-expansion)
 
+![Clay helped OpenAI's GTM motion by providing Inbound lead enrichment, outbound research, and native CRM integration to build pipeline](/assets/images/2025/01/clay-data-enrichment/Clay-x-OpenAI.webp)
 
 ## The IDE for GTM Engineers
 
