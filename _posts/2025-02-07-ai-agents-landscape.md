@@ -27,9 +27,6 @@ With Agentic workflows, you can create workflows by leveraging distinct GPTs.
 
 Another principle to prompt engineering is that specifying formats for your LLMs gives you more control over the output.
 
-## Orchestration frameworks
-
-Langchain is the most popular orchestration framework.
 
 ## LLMs
 
@@ -51,70 +48,82 @@ The market features a diverse array of large language models, each optimized for
 
 
 ## 2. Building Private GPTs: RAG vs. Fine-Tuning
-Retrieval-Augmented Generation (RAG)
-How it works: Dynamically retrieves data from external sources (databases, APIs) during inference.
 
-Pros:
+For businesses such as CRMs & Vertical SaaS businesses, LLMs provide different types of opportunities to create specialized GPTs. 
 
-Cost-effective updates (no retraining)15
+Now more than ever before, having proprietary rich data is a competitive advantage. HR-tech software such as Leena AI has been able to create their own private GPT, called WorkLM, on top of which workflows to answer HR queries can be created.
 
-Reduces hallucinations via real-time grounding14
+If you are building a private GPT, you have to decide between RAG & Fine-Tuning.
 
-Ideal for compliance-heavy sectors (e.g., healthcare, legal)14
+### Retrieval-Augmented Generation (RAG)
 
-Cons:
+Retrieval-Augmented Generation involves two distinct steps.
+1. Storage of special context data in a vector database. Using tools such LangChain and LlamaIndex, you can do appropriate chunking & vectorization of your data. Vectorization is basically creating a vector representation of your data - the text data is converted into a vector of numbers, called embeddings. For a private GPT, this process would require more significant effort. This is because the retrieval process adds context to the LLM - therefore adding the right context is critical
+2. The Generation part relies on an existing LLM - this can be via an API call to OpenAI or Anthropic models, or this can be an LLM privately hosted on your own servers.
 
-Slower latency due to retrieval steps5
+**Pros:**
 
-Requires robust vector database management4
+Cost-effective updates (no retraining)
 
-Fine-Tuning
+Reduces hallucinations via real-time grounding
+
+Ideal for compliance-heavy sectors (e.g., healthcare, legal)
+
+**Cons:**
+
+Slower latency due to retrieval steps
+
+Requires robust vector database management
+
+### Fine-Tuning
 How it works: Retrains base models (e.g., GPT-4) on domain-specific datasets.
 
-Pros:
+**Pros:**
 
-Higher accuracy for niche tasks (e.g., legal jargon)12
+Higher accuracy for niche tasks (e.g., legal jargon)
 
-Faster inference after initial training14
+Faster inference after initial training
 
-Preserves data privacy (no external queries)11
+Preserves data privacy (no external queries)
 
-Cons:
+**Cons:**
 
-Expensive GPU/TPU requirements5
+Expensive GPU/TPU requirements
 
-Risk of overfitting to training data3
+Risk of overfitting to training data
 
 Decision Matrix:
 
-Scenario	Recommended Approach
-Dynamic data (e.g., news)	RAG4
-Specialized terminology	Fine-Tuning12
-High query volume	Hybrid (RAG + FT)4
+Scenario |	Recommended Approach
+Dynamic data (e.g., news) |	RAG
+Specialized terminology |	Fine-Tuning
+High query volume |	Hybrid (RAG + FT)
 
 ## 3. Transformative Use Cases for AI Agents
 
 ### Customer Experience
 
-Sales: AI agents like Find AI automate lead generation with 98% precision7.
+Sales: AI agents like Find AI automate lead generation with 98% precision.
 
-Support: Chatbase reduces ticket volumes by 65% via refund automation and troubleshooting7.
+Support: Chatbase reduces ticket volumes by 65% via refund automation and troubleshooting.
 
 ### Healthcare
 
-Diagnostics: Google’s AI agent detects skin cancer with 85.4% sensitivity7.
+Diagnostics: Google’s AI agent detects skin cancer with 85.4% sensitivity.
 
-Surgery: Robotic systems assist in precision procedures7.
+Surgery: Robotic systems assist in precision procedures.
 
 ### Autonomous Systems
-Vehicles: Waymo’s self-driving cars use utility-based agents for real-time decisions7.
 
-Manufacturing: LG’s EXAONE 3.0 generates Python code for assembly line optimizations8.
+Vehicles: Waymo’s self-driving cars use utility-based agents for real-time decisions.
+
+Manufacturing: LG’s EXAONE 3.0 generates Python code for assembly line optimizations.
 
 ### Marketing & Insights
-Personalization: Cisco’s AI agents analyze 140K-token customer journeys for hyper-targeted campaigns6.
 
-Competitor Analysis: Talkdesk agents track churn drivers and emerging market trends6.
+Personalization: Cisco’s AI agents analyze 140K-token customer journeys for hyper-targeted campaigns.
+
+Competitor Analysis: Talkdesk agents track churn drivers and emerging market trends.
 
 ## Agentic Workflows, Sustainability - in terms of compute costs & Regulatory compliance are set to be the themes for 2025
 The AI agent ecosystem will see three key shifts in 2025:
