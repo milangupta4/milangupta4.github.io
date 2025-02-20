@@ -1,0 +1,19 @@
+{% assign category_posts = site.posts | where: "categories", include.category %}
+{% assign posts = category_posts | slice: 0, 3 %}
+
+<section class="category-section">
+    <h2>Latest Blogs on {{ include.title }}</h2>
+    <div class="category-posts-container">
+        {% for post in posts %}
+        <a href="{{ post.url | relative_url }}" class="post-card">
+            <div class="post-card-content">
+                <h3>{{ post.title }}</h3>
+                <p class="post-excerpt">{{ post.custom_excerpt | strip_html | truncatewords: 30 }}</p>
+                <div class="post-meta">
+                    <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+                </div>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
+</section> 
