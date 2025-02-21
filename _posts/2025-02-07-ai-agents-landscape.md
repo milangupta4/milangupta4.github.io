@@ -9,6 +9,112 @@ custom_excerpt: "A look at the AI Agents landscape in February 2025"
 subtitle: "A look at the AI Agents landscape in February 2025"
 ---
 
+At the risk of sounding trite, AI agents comprises two concepts:
+1. Agents - They can complete an action on their own, with minimal/ zero human intervention.
+2. AI - They are powered to do this by AI models. 
+
+While AI tools have been present since early 2010s, AI Agents as a concept achieved an inflection in 2024. This is because there are a whole range of AI models & techniques that can be used to solve different types of problems.
+
+## State of AI 
+
+AI Agents have surged in popularity between 2024–2025 as advancements in specialized AI models enabled autonomous problem-solving across diverse domains. The proliferation of large language models (LLMs) and modular AI frameworks now allows agents to dynamically select the optimal methodology for each task, creating hybrid systems that outperform single-model approaches. Below is a taxonomy of key AI methodologies and the real-world problems they solve:
+
+Core AI Methodologies | Powering Modern Agents
+Methodology | Problem Type | Example Application | Model/Technique
+Computer Vision | Image/Video Analysis | Identifying defects in manufacturing QA systems | Convolutional Neural Networks (CNNs)
+Text-to-Speech (TTS) | Audio Synthesis | Voice interfaces for banking chatbots | WaveNet, Tacotron2
+Intent Classification | Natural Language Understanding | Routing customer support tickets automatically | BERT, Transformer Models 
+Recommendation Systems | Preference Prediction | Personalized content curation on streaming platforms | Collaborative Filtering + Matrix Factorization
+Random Forest | Multi-Factor Decision Making | Credit risk assessment for loan approvals | Ensemble Decision Trees
+Multi-Factor Decision Making | Credit risk assessment for loan approvals | Ensemble Decision Trees
+Generative Adversarial Networks (GANs) | Synthetic Data Creation | Generating photorealistic product images for e-commerce | Progressive GANs (StyleGAN)
+Transformer Architectures | Context-Aware Processing | Real-time language translation in video calls | GPT-4o, LLaMA2
+Support Vector Machines | High-Dimensional Classification | Spam detection in enterprise email systems | SVM with Kernel Trick
+Reinforcement Learning | Sequential Decision Making | Optimizing warehouse robot navigation paths | Deep Q-Networks (DQN)
+Time Series Analysis | Predictive Forecasting | Electricity demand prediction for smart grids | LSTM Networks
+
+## Key Drivers of the AI Agent Revolution
+
+### 1. Specialized Model Proliferation
+The AI landscape now offers purpose-built models for every data type:
+
+Visual Data: YOLOv8 achieves 98% accuracy in real-time object detection
+
+Audio Data: GPT-4o processes speech with 200ms latency for natural conversations
+
+Text Data: LLaMA-3 handles 128k token contexts for legal document analysis
+
+### 2. Hybrid Intelligence Systems
+Modern agents combine multiple techniques:
+
+```python
+def process_task(input):
+    if input.type == "image":
+        return CNN_analyzer(input) [5]
+    elif input.type == "text":
+        return BERT_classifier(input) [6]
+    elif needs_creativity:
+        return GAN_generator(input) [7]
+```
+
+### 3. Reduced Development Barriers
+Low-code platforms like Hugging Face Transformers allow rapid agent creation:
+
+Pre-trained models for 100+ languages
+
+One-line API calls for complex NLP tasks.
+
+## Real-World Impact by Domain
+
+### Healthcare
+
+Problem: Early tumor detection in MRI scans
+
+Solution: CNN-based agents analyze 3D medical images with 94% accuracy
+
+### Retail
+
+Problem: Personalized shopping at scale
+
+Solution: Hybrid agents using collaborative filtering + real-time vision:
+
+```python
+1. CV identifies clothing items from user photos 
+2. Recommender suggests matching accessories 
+3. GAN generates virtual try-on previews 
+```
+
+### Manufacturing
+
+Problem: Production line defect detection
+
+Solution: Vision agents inspect 500+ units/minute using anomaly detection CNNs
+
+The AI agent ecosystem now demonstrates 72% faster task completion compared to single-model systems (Pluralsight 2025), enabled by intelligent model orchestration. As domain-specific fine-tuning becomes streamlined, agents increasingly handle end-to-end workflows - from analyzing supply chain satellite imagery to negotiating procurement contracts via NLP. This modular AI approach positions 2025 as the inflection point where autonomous agents transition from experimental tools to essential enterprise infrastructure.
+
+## Types of AI Agents
+
+Overview of agent types such as:
+
+Simple Reflex Agents
+
+Model-Based Reflex Agents
+
+Goal-Based Agents
+
+Utility-Based Agents
+
+
+Learning Agents
+
+
+## Vertical SaaS AI Agents
+
+- Cursor
+- Elucidata - Bioinforatics
+- Leena AI - HR
+- Spyne - Automotive
+
 LLMs Meet APIs.
 
 That's my understanding of what an AI Agent is.
