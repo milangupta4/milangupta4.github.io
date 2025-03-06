@@ -5,8 +5,8 @@ date: 2024-02-21 11:32:01 +0530
 published_date: 2024-02-21 11:32:01 +0530
 categories: marketing
 post_id: 53
-custom_excerpt: "Cursor leverages RAG and multi-model orchestration to superpower the coding experience"
-subtitle: "Cursor leverages RAG and multi-model orchestration to superpower the coding experience"
+custom_excerpt: "Designing a Sales-Driven Vertical SaaS GTM strategy for North America"
+subtitle: "Designing a Sales-Driven Vertical SaaS GTM strategy for North America"
 ---
 
 This is an articulation on my learnings on building a GTM strategy for a vertical SaaS Company, based out of India, and selling to North American market.

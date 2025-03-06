@@ -19,14 +19,14 @@ While AI tools have been present since early 2010s, AI Agents as a concept achie
 
 AI Agents have surged in popularity between 2024–2025 as advancements in specialized AI models enabled autonomous problem-solving across diverse domains. The proliferation of large language models (LLMs) and modular AI frameworks now allows agents to dynamically select the optimal methodology for each task, creating hybrid systems that outperform single-model approaches. Below is a taxonomy of key AI methodologies and the real-world problems they solve:
 
-Core AI Methodologies | Powering Modern Agents
+### Core AI Methodologies Powering Modern Agents
+
 Methodology | Problem Type | Example Application | Model/Technique
 Computer Vision | Image/Video Analysis | Identifying defects in manufacturing QA systems | Convolutional Neural Networks (CNNs)
 Text-to-Speech (TTS) | Audio Synthesis | Voice interfaces for banking chatbots | WaveNet, Tacotron2
 Intent Classification | Natural Language Understanding | Routing customer support tickets automatically | BERT, Transformer Models 
 Recommendation Systems | Preference Prediction | Personalized content curation on streaming platforms | Collaborative Filtering + Matrix Factorization
 Random Forest | Multi-Factor Decision Making | Credit risk assessment for loan approvals | Ensemble Decision Trees
-Multi-Factor Decision Making | Credit risk assessment for loan approvals | Ensemble Decision Trees
 Generative Adversarial Networks (GANs) | Synthetic Data Creation | Generating photorealistic product images for e-commerce | Progressive GANs (StyleGAN)
 Transformer Architectures | Context-Aware Processing | Real-time language translation in video calls | GPT-4o, LLaMA2
 Support Vector Machines | High-Dimensional Classification | Spam detection in enterprise email systems | SVM with Kernel Trick
